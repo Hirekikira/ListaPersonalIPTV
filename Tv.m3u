@@ -105,12 +105,6 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 tvg-id="AnexionTV.cr" tvg-logo="https://i.imgur.com/7pfXF8N.png" group-title="Undefined",Anexión TV Canal 36 (1080p)
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
 
-#EXTINF:-1 tvg-id="www.energeek.cl/en-vivo" tvg-logo="https://energeek.cl/uploads/avatars/defaults/6451b85115b706.71668017_ogiefnmlhjpqk.png" group-title="Animation",Energeek
-https://wifiexpert-1.energeek.cl/energeek/canal-1/chunks.m3u8?nimblesessionid=3025898&rand=0.20649139291025098
-#EXTINF:-1 tvg-id="www.energeek.cl/en-vivo" tvg-logo="https://energeek.cl/uploads/avatars/defaults/6451b85115b706.71668017_ogiefnmlhjpqk.png" group-title="Animation",Energeek2
-https://wifiexpert-1.energeek.cl/energeek/canal-2/chunks.m3u8?nimblesessionid=3026574
-#EXTINF:-1 tvg-id="www.energeek.cl/en-vivo" tvg-logo="https://energeek.cl/uploads/avatars/defaults/6451b85115b706.71668017_ogiefnmlhjpqk.png" group-title="Animation",Energeek2
-https://wifiexpert-1.energeek.cl/energeek/canal-2/chunks.m3u8?nimblesessionid=3026574
 #EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Animation",Anime TV
@@ -123,6 +117,10 @@ http://animezonetv.net/hls/stream.m3u8
 https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8
 #EXTINF:-1 tvg-id="locomotiontv.com" tvg-logo="https://i.ibb.co/Hnzb22J/locomotion.png" group-title="Anime",AnimeZLocomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="www.energeek.cl/en-vivo" tvg-logo="https://energeek.cl/uploads/avatars/defaults/6451b85115b706.71668017_ogiefnmlhjpqk.png" group-title="Animation",Energeek
+https://wifiexpert-1.energeek.cl/energeek/canal-1/chunks.m3u8?nimblesessionid=3025898&rand=0.20649139291025098
+#EXTINF:-1 tvg-id="www.energeek.cl/en-vivo" tvg-logo="https://energeek.cl/uploads/avatars/defaults/6451b85115b706.71668017_ogiefnmlhjpqk.png" group-title="Animation",Energeek2
+https://wifiexpert-1.energeek.cl/energeek/canal-2/chunks.m3u8?nimblesessionid=3026574
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS
 https://xhateaec.com:8800/hls/luisms123/luisms123/c4b920b042b841b9216fa90968217b40/index.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS (Opcion 2)
