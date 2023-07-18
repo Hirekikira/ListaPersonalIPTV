@@ -117,11 +117,83 @@ http://animezonetv.net/hls/stream.m3u8
 https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8
 #EXTINF:-1 tvg-id="locomotiontv.com" tvg-logo="https://i.ibb.co/Hnzb22J/locomotion.png" group-title="Anime",AnimeZLocomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-id="Pluto.tv" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/pluto-tv-logo-0.png" group-title="Anime",Plutotv1
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5ff4b9ccf938f8000779eb99/3063648/playlist.m3u8?terminate=false&sid=5f533a0f-19bf-11ee-9619-d23fd317b9c2&deviceDNT=0&deviceLat=4.6389&deviceLon=-74.0728&deviceModel=web&deviceVersion=114.0.0&includeExtendedEvents=true&paln=AQzzBGQEN6LwWvZo1DACnBeSkTq5tP5DUiNlFLXQT3haCg14qgIktK49fMxmp6sd0Vii0W8rj59el-k-4ZU093RrVBTFr81qiLF_z1bpBHlllapSONXacMF-HeRXwKc7O-XF45n9s2z5FU5YkqNRIK8S-LhW9K4umAdmy6X6ziMvXULNlBnxHX2oeP7_Z-P2v-mhHhwbk-mvayYer-UNbfFh1IJUf6wuEDO6IQzRNjPXTqpyvVR2ynwR9rIV6zNG_2EcPcH5ipB9cwYQmVU7sQiYBZHtESb2mmvgwkmMKx8RY1eRtYriDeTBRSSvuOTlA2dNBiUNr5t0AhhhHNykWfjTNhKZ8JeaAyLR5qenXuAdcPASj5AldXTzAySFhPVkbaIgvMCVx-DUlQEayXv0zkB8MoevkmF0BjAKAyMJFIeS4RVyUZnLU7sg7ssKXMUDeyAMyklcxf-Eus1Pjekj1JEcykA6bQfIuz5CMzypP2UVJoz2IDOWQjO1LSCLWnlIjRS0se_0ifLC1rWUlCw0OrN-efxGjG7RhGOZyHsxN0C1zjmRfqSa7Ig8U7kICjnF6iR8kX1S3BtzifKDnN9xky_HvBhsDzY5wS8GbplVINXpIKV2lvjD8hioUi-eSbEH-iYbicqXQc3IbQmLfPR9ywvMDc9ftOKkDFGIcgkP-2zdfauZS_7MMdS-qwzbXcdO9kBsfmsLwMg4--LBLJcMsECGxzNd9cH2vmlSkD72egk6ihBUkwdnC0DwKSIBsLhTNVNzsoM7JZInIrW60W_sCa25sJKBRxLhSmag7J1RJvmXLhIIi6nnD2lJTjjdu6vjognaCkF7xf64ooy3hdA8-Mpqv50Q5wmR7VucnhVG7_X8pjPetF309HLODRvu3RYdiz2M01C-b5eo3rw13VSX5-_V-YrBBmCquRtY0Q-qynOcF4on8p3Cb272_HockJ1oHixD8InAzhm1uT1ttq_k6zBfrKt4mCoULcTQ28g4Tv93Whmu9dtAkSb_L4phZg9C6X877-wbOMo3vpfiXGK3ilT_2IW4WUMAVQIz4IBhxcnh6C0uat69UhPrsPn5wQtN9p6t8Q-K26HLXTeNSSpdgjgUCjIB378Td1PI8_GBOq2gIYqMtDhc1yJjDrIQZObvPPuWNMN4gp4PsaBZUGnwC3YfvK_ZG3RhFs5Ibs2Pv9a_-i2qp2XsbMI_azg4ybavDp5SdEx44XLUjo8i4H2JOQ0g1mQeSxmxmkafRXbLmIXBkYXjtpcERmZ5ixfTsTUTayNnh7rfAq_DRRFev4E27qUrJ76Kq578kWfiMFEc_gwQY5457r7yH-FpUDuj&appName=web&DRMCapabilities=widevine&deviceId=295cc504-7e4f-4b81-86b8-4aa676bd2a72&appVersion=7.3.1-5169172dda8a908f6aa06a3049ac3e22577963a5&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijc5MjVkYjQ5LTUwYjEtNGY0MC1hZjY5LTcwY2Y1MjQ0MTNiZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI1ZjUzM2EwZi0xOWJmLTExZWUtOTYxOS1kMjNmZDMxN2I5YzIiLCJjbGllbnRJUCI6IjE5MC4yNC41Ni4yMjUiLCJjaXR5IjoiQm9nb3TDoSIsInBvc3RhbENvZGUiOiIxMTEzMTEiLCJjb3VudHJ5IjoiQ08iLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0Ijo0LjYzODksImRldmljZUxvbiI6LTc0LjA3MjgsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjExNC4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjcuMy4xLTUxNjkxNzJkZGE4YTkwOGY2YWEwNmEzMDQ5YWMzZTIyNTc3OTYzYTUiLCJjbGllbnRJRCI6IjI5NWNjNTA0LTdlNGYtNGI4MS04NmI4LTRhYTY3NmJkMmE3MiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0JvZ290YSIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiaXNTdGl0Y2hlckVrcyI6dHJ1ZSwibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TWprMVkyTTFNRFF0TjJVMFppMDBZamd4TFRnMllqZ3ROR0ZoTmpjMlltUXlZVGN5IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY4ODQ4ODQyMiwiaWF0IjoxNjg4NDAyMDIyLCJqdGkiOiI3ZTMzMmIxMy0zNTc5LTRkNzctOTM2NS02YjNlZjRmZTZhNzIifQ.FP2j6ACAZ81iFWYiCPjbQZxiIa0nfjQPto1pugYGJcA&CMCD=mtp%3D24100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2239d19484-1903-4603-bbf5-2fa1d1e612c2%22
-#EXTINF:-1 tvg-id="Pluto.tv" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/pluto-tv-logo-0.png" group-title="Anime",Plutotv2
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/636e83511fa9600007e5ae19/3063648/playlist.m3u8?terminate=false&sid=5f533a0f-19bf-11ee-9619-d23fd317b9c2&deviceDNT=0&deviceLat=4.6389&deviceLon=-74.0728&deviceModel=web&deviceVersion=114.0.0&includeExtendedEvents=true&paln=AQzzBGQEUEk8exaVYSk8z1fZ19ZulyO1iT7kAY-3I58Wj358gt8TmMMmyuAvSWCNElpuhzSL-4xAOl8vNE_UOKzSDMGehdzVyxs6jxc6vmv5VtFcFMwNNB-uxj2nmPeXkntzmaBrwwHtNYgw8ijNhP7CZTLySWVMqZtyR-WFvECmsFYNImlSCnSJivvtXjR-quNSchfJ1Zt8bB9Qr8ikrAKevZ1PHh9SWJMaP36kgJBk5o9MY81_fbNDgznw38WtHEcpvqz2nxsuh8JNCokt8ZDZfr9UvH53YS1SpcqPW2X8UIJvpB-i7vO9jsZr2QSdDmfJw0y6fDvwQit_IpPZszKoY1MEwwfeHrF0H6k_TvcmAgQz2pkznA_SDaScn9Vjphx4T4YPy_566JeBeE68RvdciBkK-sokY4IXicLarKOgaFI70YmmMLH2EpH4t2ixyaeKn8jJaan5SYMXEwSiii5nhPch1ipIGdYMEY166VbVh1fpUVlVuAPhzuK1a1WJmoA_3s218zfmQZL6QrwrA3GJU35zgoJXKjVhJLe3DliNG6HdaRxNVZrEW5zmg8EnbUMohgy2BuU3NjnLLpgnYJoIS3mGIeegol9Rpk9g5wSGqOJUUibGRjP1CEinPwQkbolJvB110r8bV8yjR5w2Ynio90AEu75Xe4LxyDiksbHi_HNR7I87-Hjc_4xtGOt2fXrK7ihcrvjmdfZtgca8lsuSK61Hr0-kkvVt51BVRNz7Ak3yvZ_DKDUfhDDQUnUL_4BwzQYpCN96tcmzAnQPZtBePVMWzg68Ua7ZhEr2XFZVGRehT-NgHX4i1hkvWeb0H6OsrFUrrwqwU2YSC84XURoYpyjC2iVspGE-iYuYUCt6yjg-F6-xoAT2A_poBtT3E5bEAyYdpyvXpk8zxjyRjB1pYqJK8LaBTYceTFIiY-SLqk1t8bC7drtyJIAp3fqk4WC1V5q94JDfZ9exkWIlrJlli7JShTCatSRlmXR58PkO-bPWZB--j7LAJAse-unEDXSbWyfIVKOc4hnngNJO4z9ib4HsP-jbIjUuZQUzMYP9swm0uNorqyfw75iIIFsDz3ChVWJbMF21NX3GSDrOpBvTZsgY2ChkHfKiLs40Qrn1jMnGUbfbklxlIFDIniwI-P6lhYqENq0Db_wlSbr_HBSpCRWkryT9c6yyHhRSJ0Q-2BHpL3gnddPTlt7Mls5HZCttcWGLJxnIdIeQ4UW-ag2IZ8l39jWZFou8YzBOjT7PtfwQx7HUzrtdTIMNJHAnziDIbhbqgWkV98NGp7rmyKsK-mEf2FnZkOlQUkBxiNuXDhMmTRy2SPxARU1Hucx4jFf9bSUypw..&appName=web&DRMCapabilities=widevine&deviceId=295cc504-7e4f-4b81-86b8-4aa676bd2a72&appVersion=7.3.1-5169172dda8a908f6aa06a3049ac3e22577963a5&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijc5MjVkYjQ5LTUwYjEtNGY0MC1hZjY5LTcwY2Y1MjQ0MTNiZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI1ZjUzM2EwZi0xOWJmLTExZWUtOTYxOS1kMjNmZDMxN2I5YzIiLCJjbGllbnRJUCI6IjE5MC4yNC41Ni4yMjUiLCJjaXR5IjoiQm9nb3TDoSIsInBvc3RhbENvZGUiOiIxMTEzMTEiLCJjb3VudHJ5IjoiQ08iLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0Ijo0LjYzODksImRldmljZUxvbiI6LTc0LjA3MjgsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjExNC4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjcuMy4xLTUxNjkxNzJkZGE4YTkwOGY2YWEwNmEzMDQ5YWMzZTIyNTc3OTYzYTUiLCJjbGllbnRJRCI6IjI5NWNjNTA0LTdlNGYtNGI4MS04NmI4LTRhYTY3NmJkMmE3MiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0JvZ290YSIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiaXNTdGl0Y2hlckVrcyI6dHJ1ZSwibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TWprMVkyTTFNRFF0TjJVMFppMDBZamd4TFRnMllqZ3ROR0ZoTmpjMlltUXlZVGN5IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY4ODQ4ODQyMiwiaWF0IjoxNjg4NDAyMDIyLCJqdGkiOiI3ZTMzMmIxMy0zNTc5LTRkNzctOTM2NS02YjNlZjRmZTZhNzIifQ.FP2j6ACAZ81iFWYiCPjbQZxiIa0nfjQPto1pugYGJcA&CMCD=mtp%3D11600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22aee4588b-cc24-46ac-88f8-8aeb249a5b0c%22
+#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS
+https://xhateaec.com:8800/hls/luisms123/luisms123/c4b920b042b841b9216fa90968217b40/index.m3u8
+#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS (Opcion 2)
+https://cdnhd.iblups.com/hls/9loIOeAx9w.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="JOVENES Y ADULTOS",EnerGeek Retro
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="JOVENES Y ADULTOS",EnerGeek Fanpop
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="JOVENES Y ADULTOS",VariedTV
+https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vhx4hxI.png" group-title="JOVENES Y ADULTOS",Loading HD Brasil
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares",ACS NETWORK TV
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gb9K6i9.png" group-title="Familiares",Dreiko TV
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Familiares",Magic Kids TV
+https://xhateaec.com:8800/hls/MagicKidsTv/MagicKidsTv/1ee9d2a56f6029f1a90245bad8b0f9f2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Familiares",Magic
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+#EXTINF:-1 tvg-id="El Magic TV" tvg-name="El Magic TV" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="Familiares",El Magic TV
+https://kali.vdopanel.com:3070/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Familiares",Retro Infantil
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEO TV 2 KIDS HD" tvg-logo="https://i.imgur.com/Vyo10wb.png" group-title="Familiares",SEO TV 2 KIDS HD
+https://live.seo.tv.bo/live/2SEO.m3u8
 
+#EXTINF:-0 tvg-id="" tvg-name="Pluto TV Anime Latino" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Anime Latino
+https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Accion" tvg-logo="https://i.imgur.com/VzX9t3v.png" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Anime Accion
+https://i.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Kids" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Anime Kids
+https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV One Piece" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV One Piece
+https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Clasico" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Nick Clasico
+https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rugrats Crecidos" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Rugrats Crecidos
+https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Kids
+https://i.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Latino Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Bob Esponja Latino Pluto TV
+https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Series Retro" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Series Retro
+https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Retro Cartoons" tvg-logo="https://i.imgur.com/xuH7gFp.jpg" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Retro Cartoons
+https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kenan y Kel Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Kenan y Kel Pluto TV
+https://i.mjh.nz/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV TokuSato" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV TokuSato
+https://i.mjh.nz/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Spain" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Anime Spain
+https://i.mjh.nz/PlutoTV/608035b8d8705f0007260287-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Detective Conan Pluto TV" tvg-logo="https://i.imgur.com/xyAPCzH.png" tvg-shift="0" group-title="Pluto TV Spain",Detective Conan Pluto TV
+https://i.mjh.nz/PlutoTV/629a066860ef810008267b70-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Inazuma Eleven Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Inazuma Eleven Pluto TV
+https://i.mjh.nz/PlutoTV/632c6df43d2bc5000751f621-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rugrats Aventuras en Panales Pluto TV" tvg-logo="https://i.imgur.com/CkYNIMj.png" tvg-shift="0" group-title="Pluto TV Spain",Rugrats Aventuras en Panales Pluto TV
+https://i.mjh.nz/PlutoTV/610c09219fc0430007a3fce6-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Spain Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Bob Esponja Spain Pluto TV
+https://i.mjh.nz/PlutoTV/5f1aca0b4e448e00075e7c5e-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Animakids" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Animakids
+https://i.mjh.nz/PlutoTV/5f1aabee6f4a2c00076a322c-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Who Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Doctor Who Pluto TV
+https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg" group-title="LATINO",TeleRed TV HD
+https://video20.klm99.com:3558/live/teleredlive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YLRzeS8.png" group-title="LATINO",Planetatv movie
+https://tls-cl.cdnz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-id="photocall.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",RockTV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p) [Not 24/7]
