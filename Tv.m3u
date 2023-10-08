@@ -105,8 +105,12 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 tvg-id="AnexionTV.cr" tvg-logo="https://i.imgur.com/7pfXF8N.png" group-title="Undefined",Anexión TV Canal 36 (1080p)
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
 
-#EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax
+#EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax JP
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+#EXTINF:-1 tvg-id="animax.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax LAT
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CsIF3lTgq9cG7qsAzTJmVXJgiLZz50brY6zUQabZ1c84_LGj632NEL5cUfR6GbB6H4PvypMOLZPc_P9VUv0Sjz-5q1TxPTc72jZ3I904clseXo1sWJaqPTf2OUfATPjFudXHZ865ICcRakPYMQRHB7doLEv3F8I8KDvSp-zGkR0pByTZ7y0a5xVStmmHayCmw1UsTSvVdUa7W9dmsjZ8bmWZB2kydDl3wQCwQa2292RFqY11xo7_wXUu_c-Nfzu56ftsP_YrcbD880XBquz7hoQelbeXuNxkbM8NYLLkUhYEvtdYQWkqhSBaYgcRFDeDt5GL3itrXcuHwCOayioMNHWcFiRAJLr1_ruVpb9BW6hOp_JRbWgWrP_Q7sLZ7jiEqTGyaX-OUK1aHOvReRVuCeQ5SF7FKnyll-HBB0H32pBDohag2mQzI7q9IKrMFmr1x1sHdzlygiv_bjzEgyR8LYQ9DbEHtH8-YVvFNzaGsG9ao31P119156DjoVjIdL5ja7lia0TaMpZfrzbx1bWYcZ3VU2LPeedgABb6DRCgzbvnJWSpEZCnS2Y9NhoXDWJbffRdGyrAwGJ-bNbAeUlfjnSzGXyeEcinMbAcqiu0HeNVfh-Z0pHwk_lR78dvNPx_GxrbfN5JbzebV_S-iPkJG955ly8JroktohYROfPnd-rGWLo2CkG7LeNAkCtFrJeq79OCqhk_xOLZOeRAjcw7odbn0IgXRupGEfNQ-XUuuhtYB0DBQ9emXOtYa7F4JTFrRjQW8MD-xu7JzXjiTdPYL3L6TKT_otDCpb4lP-_6-Xdl3qd0CoOfZgNQqF2HBIIgb83Rf8lO1SXcwdzh83gaTbgiGzy1_KChCUXSlQi7_vR7bnbGivMEAjMhen38bGw8VFcYUfCKE77NoFPFLyEv_zJu_9qRuusnzv9cY72IjbfG-CtLSBoM6jN9opNGkQaB2xD0IAEqCXVzLWVhc3QtMTCRBg.m3u8
+#EXTINF:-1 tvg-id="neotv.cl" tvg-logo="https://cdn.awsli.com.br/400x300/1756/1756138/logo/cd7252e32c.jpg" group-title="Animation",Pandamax
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CsIFO4WXp9gaGai8NzPKt-i9Y5uvAT04UPPZr8q-B3KeifM5DUWGeeNjcYlHH147XOZZFJ7VVAIEqq5qvqFUWYziKepOv7DYoVd1Dp1u7UOBpaiMZr2tInXBQT10U66Yisd_aYZ8TTJLX0q4hgn6ZZADUvl54SIa-ENc2gMXM-MTWqEQIm3rKGVqeSOL3pvSa6IfQdeY9sbpTl9z3iS8RA7IwQARwfXhc5jV2a0KA74g3WyoB-yOPGSzomes0n0trL2ySvA_sQZeJG3YQ7FPc5SGRS57_p1vrDGvmfcEwy8YLM4rM_s34I-mqgdiH4qP-J1UvjWW5U-BIU4SbmkKeZlyuFBsWb9hMdrC4f3Jr4w7FzKvpCGuJ8XJc4uTPMdMKN5FBiPdzkszCGgyq_aOelscSkS14B00Olgt_Ubl4kDYlhPpxjHob4D1wHzD4GzqpqQoJx2NPYVZAEFKANhBxxhGSH5FBbaJoLo4adaGYxIKwqySgh6JvER8Qkq0m05WLSg1_3ZKYupVWlXuaO86R6L0u9HCWNg_ywGWHMJy9QEO_JyyZN21dKgpxpEnfZQ1gZtsHTQ4ZTrPnqWTCKDRiM8YkiGOPG_C5vEFqp9uaS7mdJ3rzWE0qsE_e4U7RNUB551-h273r16iGI2r-AOek59kt4JLb31sTXFoENHipBEgSI2wE8LH_xr3_9TLCYyhj0Ft8SPzQegxO_CyUUY1z5VtVKM27i1_cgxyOAOcx8eE1lmqCfQ89d9h0nodhE_vT5zMoaSOhmvPMHakHyJoDzoL5yr71FMGRzLqEP_wEX_qFzgUJRxvBgTEhtd5mMUccKRaGAoXotNQwQRmNuKe4IcBSL5FktbdWstpdOHvox7scx_jhr_QM66gYtGgmiiW6tmcdyH_I9jz0OiU9JFr8QRbb9SqIGw67xwVjQPvPbAYFtbQ2BoM_MGQyP9_DxKxB5hhIAEqCXVzLWVhc3QtMTCRBg.m3u8
 #EXTINF:-1 tvg-id="Anime Loving TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/36882e29bc7a31b643af08a0f61e23c3.webp" group-title="Animation",Anime Loving TV
 http://animeloving.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Animation",Anime TV
@@ -116,7 +120,7 @@ https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="animestationtv.com" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b12a63543eabe272b1603497844fc92f.webp" group-title="Anime",AnimeStation
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8?nimblesessionid=25356651
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8?nimblesessionid=28801039
 #EXTINF:-1 tvg-id="locomotiontv.com" tvg-logo="https://i.ibb.co/Hnzb22J/locomotion.png" group-title="Anime",AnimeZLocomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="energeek.cl" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="Anime",EnerGeek Retro
