@@ -115,7 +115,7 @@ http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 #EXTINF:-1 tvg-id="animax.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax LAT
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CsIF3lTgq9cG7qsAzTJmVXJgiLZz50brY6zUQabZ1c84_LGj632NEL5cUfR6GbB6H4PvypMOLZPc_P9VUv0Sjz-5q1TxPTc72jZ3I904clseXo1sWJaqPTf2OUfATPjFudXHZ865ICcRakPYMQRHB7doLEv3F8I8KDvSp-zGkR0pByTZ7y0a5xVStmmHayCmw1UsTSvVdUa7W9dmsjZ8bmWZB2kydDl3wQCwQa2292RFqY11xo7_wXUu_c-Nfzu56ftsP_YrcbD880XBquz7hoQelbeXuNxkbM8NYLLkUhYEvtdYQWkqhSBaYgcRFDeDt5GL3itrXcuHwCOayioMNHWcFiRAJLr1_ruVpb9BW6hOp_JRbWgWrP_Q7sLZ7jiEqTGyaX-OUK1aHOvReRVuCeQ5SF7FKnyll-HBB0H32pBDohag2mQzI7q9IKrMFmr1x1sHdzlygiv_bjzEgyR8LYQ9DbEHtH8-YVvFNzaGsG9ao31P119156DjoVjIdL5ja7lia0TaMpZfrzbx1bWYcZ3VU2LPeedgABb6DRCgzbvnJWSpEZCnS2Y9NhoXDWJbffRdGyrAwGJ-bNbAeUlfjnSzGXyeEcinMbAcqiu0HeNVfh-Z0pHwk_lR78dvNPx_GxrbfN5JbzebV_S-iPkJG955ly8JroktohYROfPnd-rGWLo2CkG7LeNAkCtFrJeq79OCqhk_xOLZOeRAjcw7odbn0IgXRupGEfNQ-XUuuhtYB0DBQ9emXOtYa7F4JTFrRjQW8MD-xu7JzXjiTdPYL3L6TKT_otDCpb4lP-_6-Xdl3qd0CoOfZgNQqF2HBIIgb83Rf8lO1SXcwdzh83gaTbgiGzy1_KChCUXSlQi7_vR7bnbGivMEAjMhen38bGw8VFcYUfCKE77NoFPFLyEv_zJu_9qRuusnzv9cY72IjbfG-CtLSBoM6jN9opNGkQaB2xD0IAEqCXVzLWVhc3QtMTCRBg.m3u8
 #EXTINF:-1 tvg-id="neotv.cl" tvg-logo="https://cdn.awsli.com.br/400x300/1756/1756138/logo/cd7252e32c.jpg" group-title="Animation",Pandamax
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8?nimblesessionid=8158995
 #EXTINF:-1 tvg-id="Anime Loving TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/36882e29bc7a31b643af08a0f61e23c3.webp" group-title="Animation",Anime Loving TV
 http://animeloving.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Animation",Anime TV
@@ -125,7 +125,7 @@ https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="animestationtv.com" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b12a63543eabe272b1603497844fc92f.webp" group-title="Anime",AnimeStation
-https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="locomotiontv.com" tvg-logo="https://i.ibb.co/Hnzb22J/locomotion.png" group-title="Anime",AnimeZLocomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="energeek.cl" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="Anime",EnerGeek Retro
