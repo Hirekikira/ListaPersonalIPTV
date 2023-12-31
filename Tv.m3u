@@ -106,8 +106,12 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 tvg-id="AnexionTV.cr" tvg-logo="https://i.imgur.com/7pfXF8N.png" group-title="Undefined",Anexión TV Canal 36 (1080p)
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
 
+#EXTINF:-1 tvg-id="DreamWorks" tvg-name="Dreamworks" tvg-logo="https://television-libre.online/img/dream.png" group-title="JOVENES Y ADULTOS",Dreamworks
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w1084369828.m3u8
 #EXTINF:-1 tvg-id="Adult Swim LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 https://mesh.zappix.live/mnp/adultswim/output.mpd
+#EXTINF:-1 tvg-id="Adult Swim LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
+https://30m-str02.lcdn.claro.com.do/bpk-token/mfgqcfecajaaaaaaasm22baaaaaaaaaaaaaeecngqzqqdymg/Content/HLS_HLS_FK/Live/Channel(TRUTVHD)/07.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9EVuY65.jpg" group-title="JOVENES Y ADULTOS",Xtrema TV Anime HD
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 #EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax JP
@@ -116,6 +120,8 @@ http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CsIF3lTgq9cG7qsAzTJmVXJgiLZz50brY6zUQabZ1c84_LGj632NEL5cUfR6GbB6H4PvypMOLZPc_P9VUv0Sjz-5q1TxPTc72jZ3I904clseXo1sWJaqPTf2OUfATPjFudXHZ865ICcRakPYMQRHB7doLEv3F8I8KDvSp-zGkR0pByTZ7y0a5xVStmmHayCmw1UsTSvVdUa7W9dmsjZ8bmWZB2kydDl3wQCwQa2292RFqY11xo7_wXUu_c-Nfzu56ftsP_YrcbD880XBquz7hoQelbeXuNxkbM8NYLLkUhYEvtdYQWkqhSBaYgcRFDeDt5GL3itrXcuHwCOayioMNHWcFiRAJLr1_ruVpb9BW6hOp_JRbWgWrP_Q7sLZ7jiEqTGyaX-OUK1aHOvReRVuCeQ5SF7FKnyll-HBB0H32pBDohag2mQzI7q9IKrMFmr1x1sHdzlygiv_bjzEgyR8LYQ9DbEHtH8-YVvFNzaGsG9ao31P119156DjoVjIdL5ja7lia0TaMpZfrzbx1bWYcZ3VU2LPeedgABb6DRCgzbvnJWSpEZCnS2Y9NhoXDWJbffRdGyrAwGJ-bNbAeUlfjnSzGXyeEcinMbAcqiu0HeNVfh-Z0pHwk_lR78dvNPx_GxrbfN5JbzebV_S-iPkJG955ly8JroktohYROfPnd-rGWLo2CkG7LeNAkCtFrJeq79OCqhk_xOLZOeRAjcw7odbn0IgXRupGEfNQ-XUuuhtYB0DBQ9emXOtYa7F4JTFrRjQW8MD-xu7JzXjiTdPYL3L6TKT_otDCpb4lP-_6-Xdl3qd0CoOfZgNQqF2HBIIgb83Rf8lO1SXcwdzh83gaTbgiGzy1_KChCUXSlQi7_vR7bnbGivMEAjMhen38bGw8VFcYUfCKE77NoFPFLyEv_zJu_9qRuusnzv9cY72IjbfG-CtLSBoM6jN9opNGkQaB2xD0IAEqCXVzLWVhc3QtMTCRBg.m3u8
 #EXTINF:-1 tvg-id="neotv.cl" tvg-logo="https://cdn.awsli.com.br/400x300/1756/1756138/logo/cd7252e32c.jpg" group-title="Animation",Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8?nimblesessionid=8158995
+#EXTINF:-1 tvg-id="Gogo Play" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/gogo-play.png?itok=y2h4WQK8" group-title="Animation",Gogo Play
+https://250weu.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8?nimblesessionid=53933081
 #EXTINF:-1 tvg-id="Anime Loving TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/36882e29bc7a31b643af08a0f61e23c3.webp" group-title="Animation",Anime Loving TV
 http://animeloving.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Animation",Anime TV
@@ -126,12 +132,17 @@ https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="animestationtv.com" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b12a63543eabe272b1603497844fc92f.webp" group-title="Anime",AnimeStation
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="animestationtv.com" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b12a63543eabe272b1603497844fc92f.webp" group-title="Anime",AnimeStation2
+https://rpn3.bozztv.com/ssh101/ssh101/livestreamtvla/playlist.m3u8
+#EXTINF:-1 tvg-id="animestationtv.com" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b12a63543eabe272b1603497844fc92f.webp" group-title="Anime",AnimeStation3
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8?nimblesessionid=120524399
+
 #EXTINF:-1 tvg-id="locomotiontv.com" tvg-logo="https://i.ibb.co/Hnzb22J/locomotion.png" group-title="Anime",AnimeZLocomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="energeek.cl" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="Anime",EnerGeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="energeek.cl" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="Anime",EnerGeek Fanpop
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8?nimblesessionid=38703486
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z72VOYs.png" group-title="JOVENES Y ADULTOS", Rocket Channel
 https://cdnhd.iblups.com/hls/cTyg8oyNGU.m3u8
@@ -165,7 +176,7 @@ https://kali.vdopanel.com:3070/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Familiares",Retro Infantil
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w921071361.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 2 KIDS HD" tvg-logo="https://i.imgur.com/Vyo10wb.png" group-title="Familiares",SEO TV 2 KIDS HD
@@ -211,12 +222,13 @@ https://i.mjh.nz/PlutoTV/610c09219fc0430007a3fce6-alt.m3u8
 https://i.mjh.nz/PlutoTV/5f1aca0b4e448e00075e7c5e-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Animakids" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Animakids
 https://i.mjh.nz/PlutoTV/5f1aabee6f4a2c00076a322c-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xtrema TV" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/xtrematv.jpg?itok=2BHMK_fv" tvg-shift="0" group-title="Jovenes y Adultos",Xtrema TV
+https://stmv1.cnarlatam.com/canal1/canal1/chunklist_w880592283.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Doctor Who Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Doctor Who Pluto TV
 https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg" group-title="LATINO",TeleRed TV HD
 https://video20.klm99.com:3558/live/teleredlive.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YLRzeS8.png" group-title="LATINO",Planetatv movie
 https://tls-cl.cdnz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-id="photocall.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",RockTV
@@ -892,7 +904,7 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-id="DoctorWho.us" tvg-logo="https://i.imgur.com/naz0HAW.png" group-title="Undefined",Doctor Who (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="DreikoTV.pa" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Animation",DreikoTv (480p) [Not 24/7]
-https://cloudvideo.servers10.com:8081/8242/index.m3u8
+https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DTPlay.bo" tvg-logo="https://i.imgur.com/2nVIjho.png" group-title="Sports",DT Play (Deporte Total) (720p) [Not 24/7]
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
@@ -958,7 +970,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1 tvg-id="EnerGeekAnimate.cl" tvg-logo="https://i.imgur.com/yq4K3KN.png" group-title="Animation;Entertainment",EnerGeek Animate (720p) [Not 24/7]
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Series",EnerGeek Fanpop (720p) [Not 24/7]
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8?nimblesessionid=38703476
 #EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro (720p) [Not 24/7]
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="EnfoqueDigitalTV.cl" tvg-logo="https://i.imgur.com/GaJzjt5.png" group-title="Undefined",Enfoque Digital TV
