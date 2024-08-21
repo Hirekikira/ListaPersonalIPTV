@@ -146,8 +146,8 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8?nimblesessioni
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z72VOYs.png" group-title="JOVENES Y ADULTOS", Rocket Channel
 https://cdnhd.iblups.com/hls/cTyg8oyNGU.m3u8
-#EXTINF:-1 tvg-id="Teletoonizaki" tvg-name="Teletoonizaki Loop" tvg-logo="https://i.imgur.com/KUeV2YT.png" group-title="JOVENES Y ADULTOS",Teletoonizaki Loop
-https://archive.org/download/teletoonizakiloop/Teletoonizaki%20loop.ia.mp4
+#EXTINF:-1 tvg-id="MaxAnime" tvg-name="MaxAnime" tvg-logo="https://i.imgur.com/KUeV2YT.png" group-title="JOVENES Y ADULTOS",MaxAnine
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Rf86qk2.jpg" group-title="Familiares",Xtrema TV Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GwpJYZV.jpg" group-title="Familiares",Xtrema TV Retro Cartoons
