@@ -107,85 +107,86 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="ExtremaTV" tvg-name="ExtremaTV" tvg-logo="https://television-libre.online/img/dream.png" group-title="JOVENES Y ADULTOS",ExtremaTV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w1084369828.m3u8
+#EXTINF:-1 tvg-id="VisionTV" tvg-name="VisionTV" tvg-logo="https://lc.cx/Lc_XUO" group-title="JOVENES Y ADULTOS",VisionTV
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="RetroPlusTV" tvg-name="RetroPlusTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="JOVENES Y ADULTOS",RetroPlusTV
+https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w179820137.m3u8
+#EXTINF:-1 tvg-id="Vclassic Tv" tvg-name="Vclassic Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7a80e50a4516a948ce4dd6ac10912ec2.webp" group-title="JOVENES Y ADULTOS",Vclassic Tv
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w646988500.m3u8
+#EXTINF:-1 tvg-id="CineFriki" tvg-name="CineFriki" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f667db78acfeca3e792be86616ee96f.webp" group-title="JOVENES Y ADULTOS",CineFriki
+https://d2jqgm8hyia1n3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/ebfda812-86d2-4485-bfc9-efecd62e310e/1.m3u8
+#EXTINF:-1 tvg-id="Planeta TV Movie" tvg-name="Planeta TV Movie" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99912765d4b4234eab782b5beb81286d.webp" group-title="JOVENES Y ADULTOS",Planeta TV Movie
+https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w159087467.m3u8
+#EXTINF:-1 tvg-id="TerrorTV" tvg-name="TerrorTV" tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png" group-title="JOVENES Y ADULTOS",TerrorTV
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
+
 
 #EXTINF:-1 tvg-id="LatinoKids" tvg-logo="" group-title="Anime",LatinoKids
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="Retrocartoons" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/thumbnail.jpg" group-title="Anime",Retrocartoons
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/60142258a54aeb0007751c15/3321280/playlist.m3u8?terminate=false&sid=87a08759-6020-11ef-9cbd-0ad490a252b3&deviceDNT=0&deviceLat=4.570000171661377&deviceLon=-74.2300033569336&deviceModel=web&deviceVersion=128.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=429e73fe-755e-47a5-b78e-8288675d51d9&appVersion=9.3.0-69146e96681a70e0e5f4f40942d0abc67f04864a&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImQyNWRmNWY0LTA5MWMtNDgzNi04OTE4LTY1M2JmNzczNDI3MSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI4N2EwODc1OS02MDIwLTExZWYtOWNiZC0wYWQ0OTBhMjUyYjMiLCJjbGllbnRJUCI6IjE3OS41MS4xMTkuNTUiLCJjaXR5IjoiU29hY2hhIiwicG9zdGFsQ29kZSI6IjI1MDA1MiIsImNvdW50cnkiOiJDTyIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOjQuNTcwMDAwMTcxNjYxMzc3LCJkZXZpY2VMb24iOi03NC4yMzAwMDMzNTY5MzM2LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjguMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjMuMC02OTE0NmU5NjY4MWE3MGUwZTVmNGY0MDk0MmQwYWJjNjdmMDQ4NjRhIiwiY2xpZW50SUQiOiI0MjllNzNmZS03NTVlLTQ3YTUtYjc4ZS04Mjg4Njc1ZDUxZDkiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Cb2dvdGEiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI0MjllNzNmZS03NTVlLTQ3YTUtYjc4ZS04Mjg4Njc1ZDUxZDkiLCJmd1ZjSUQyQ29wcGEiOiI0MjllNzNmZS03NTVlLTQ3YTUtYjc4ZS04Mjg4Njc1ZDUxZDkiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjQyOWU3M2ZlLTc1NWUtNDdhNS1iNzhlLTgyODg2NzVkNTFkOSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDMsMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpOREk1WlRjelptVXROelUxWlMwME4yRTFMV0kzT0dVdE9ESTRPRFkzTldRMU1XUTUiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzI0Mzc0MjMwLCJpYXQiOjE3MjQyODc4MzAsImp0aSI6ImQ5ZTRhNjM3LWE2YTgtNDc4YS05OGQ3LThmZjY3YmI4NTBkNCJ9.5v5QxuU7ybMffFvygPg4WhpDCtKkVnSVnnArokRmrLk&paln=AQzzBGQEl5ymkyKdNOKGQm-5KhLxbTsY0XaXXmuc4AKcLtuDDlbEmsQvpfgdGU_NlKRHsVWR_9i-8KQyjJ2R2fywNDL7Na5ripMGTrkz7A86-K4hN9LqUa81lYAowsQteUPsRUdmY9uwpCfBSeqYY_gpd-9DD7-Uifie1CsdBdp9XvJoWUMIuqzt_C6dkGxlN44_81OOYzSP6PQtrJc2epWb8IXRbIoij1HXrb8um1ZlE0J5PCNRAjGXR_tpzG0WLdpaDB6BQ9prBHv3Cyleu87eLygnmRiwFfn7iBEF9-R1quxjdXiGtH4sK2u0Dr_YBUdoWVxGPiRlLQCEmIA2510CcIrGm1MV1BbqAFq5B3w5zbTNMrzzyIWz4P6LvK_seQCVbr_MOf6EKAHTnTITiDrcqm4uo-UnXIAO4Zna47QPr-SuapO9Fq2mZ85ti422U6b3LG5J1B87CBb5g3jWKwO68ed-AKS3HlWvtF5dphf0QP7eBUITis4-6XgVN1vuxNU6iMjr2lof25Cw-LOpJzQs2j2vqd9lqcuhCUaoY0LOP2pXLyoGdCaeKuIjjsKnYKT7kDr4axUaxfNoi8C3C0l0phy11KYosNOL0JqJzbyKlViXb4tVDToy4RqqXVnnlv9w86HtpM3-uzUT6x5-jUztMa9NM9lLYb8P7hS6HOYcYuOfpWf0qGWDr7St1e26j0iLNPq1K9ClDmSDfdwmXQnSRlBPbVj6XIB6z8TBTUWDY3Y68gcb_eJV08K_T-T97mwRnRMjlrpS4KXG_bdhQS_pUVV3Lp1q3Gy4PLwCSHuwQO1fGhbCd2K_hWz9p3aPaBJKSih78E-nzvJkMR4x03KCr1SGY97YQNi475tIP3HFIjcjuJxZRmsy0kvnN0X6hzZgGU_tLAJ0OPA21sHo-Dyh5dCbA9w9VcNrwJ3omvPsH5a2cxk9r2Wu1wq8vQ6Yz9AoSzvNBRV9llXnQq7wPm3cEklO8hCSRxi6pwfvGuV08KRA8j91qliP3jVJd-rLMC-Q8nsIqcu4gzXsV2B5jiLNv9EKNtpJ_5pjWxflXgNVDRX1LVQXCOPHZE9ERIcFBwEfdJo_YjMlzMY9w-FCBYUaBH7KTBCVmaBIrU5I5BWf7E3QPpxiQYLNNu1zNDHsXzgGPV9nE5_kCGwGdf66vLJg68QS0KGu2R0jQdbU3BGTaR5oPdilBPJlCv7ZLJePZm5CrJcCfdAM_udycs9iH7M8larDvhXX9PCgPu8hql80kV0CYP1Efx3aE3xjqKlYLL1hezAVr1Ozz543kXznRFhjw6O_cNPTJn-V5ugAG7iGPhvQVkRDeJdkH1RqshJ3O7WUAde2ymyp7J-gFqpmF4yA8QhMcRRRWC0PoSUpxjSUUvyYgp_sMpJpjb3X9b1tA5Wf-hIwnsRhXR3uzaBtNr1yGBN7IOAqFcx7a3WWH10OjPIMWgzwXN2c9QgVqLYfjl3tVMAbXOA2A7_ctGybv3wQButKpVWjRyErzQiFBhYqzxLRFu2dPGCLokcAajKqB5G_vLqvy9j5DEu9vbQqamqudBc643h-NkkBoNyxo3XBezsuVekiIVtg4yt5Fu4SumijhJ7Gienqjvg64o9Edd2G0q8aDYwabSxM3F1p7c17rIqDw4D2-guR&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%225336773d-c06a-4681-aa71-2787b281092d%22
 #EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://i.imgur.com/WM4FXod.png" group-title="Entertainment",Kanade (720p)
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="Anime",DisneyChannel
 http://168.181.122.234:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="Adult Swim LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TRU_TV_HD)/1723656116379item-08item_Segment-6349864020562.m4a
 #EXTINF:-1 tvg-id="+Cine" tvg-name="+Cine" tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="JOVENES Y ADULTOS",+Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9EVuY65.jpg" group-title="JOVENES Y ADULTOS",Xtrema TV Anime HD
+#EXTINF:-1 tvg-id="Xtrema TV" tvg-name="Xtrema TV" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="JOVENES Y ADULTOS",Xtrema TV Anime HD
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 #EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax JP
-http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
-#EXTINF:-1 tvg-id="animax.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax LAT
-https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CsIF3lTgq9cG7qsAzTJmVXJgiLZz50brY6zUQabZ1c84_LGj632NEL5cUfR6GbB6H4PvypMOLZPc_P9VUv0Sjz-5q1TxPTc72jZ3I904clseXo1sWJaqPTf2OUfATPjFudXHZ865ICcRakPYMQRHB7doLEv3F8I8KDvSp-zGkR0pByTZ7y0a5xVStmmHayCmw1UsTSvVdUa7W9dmsjZ8bmWZB2kydDl3wQCwQa2292RFqY11xo7_wXUu_c-Nfzu56ftsP_YrcbD880XBquz7hoQelbeXuNxkbM8NYLLkUhYEvtdYQWkqhSBaYgcRFDeDt5GL3itrXcuHwCOayioMNHWcFiRAJLr1_ruVpb9BW6hOp_JRbWgWrP_Q7sLZ7jiEqTGyaX-OUK1aHOvReRVuCeQ5SF7FKnyll-HBB0H32pBDohag2mQzI7q9IKrMFmr1x1sHdzlygiv_bjzEgyR8LYQ9DbEHtH8-YVvFNzaGsG9ao31P119156DjoVjIdL5ja7lia0TaMpZfrzbx1bWYcZ3VU2LPeedgABb6DRCgzbvnJWSpEZCnS2Y9NhoXDWJbffRdGyrAwGJ-bNbAeUlfjnSzGXyeEcinMbAcqiu0HeNVfh-Z0pHwk_lR78dvNPx_GxrbfN5JbzebV_S-iPkJG955ly8JroktohYROfPnd-rGWLo2CkG7LeNAkCtFrJeq79OCqhk_xOLZOeRAjcw7odbn0IgXRupGEfNQ-XUuuhtYB0DBQ9emXOtYa7F4JTFrRjQW8MD-xu7JzXjiTdPYL3L6TKT_otDCpb4lP-_6-Xdl3qd0CoOfZgNQqF2HBIIgb83Rf8lO1SXcwdzh83gaTbgiGzy1_KChCUXSlQi7_vR7bnbGivMEAjMhen38bGw8VFcYUfCKE77NoFPFLyEv_zJu_9qRuusnzv9cY72IjbfG-CtLSBoM6jN9opNGkQaB2xD0IAEqCXVzLWVhc3QtMTCRBg.m3u8
+https://stream.ichibantv.com:3547/stream/play.m3u8
 #EXTINF:-1 tvg-id="neotv.cl" tvg-logo="https://cdn.awsli.com.br/400x300/1756/1756138/logo/cd7252e32c.jpg" group-title="Animation",Pandamax
-https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8?nimblesessionid=40078709
-#EXTINF:-1 tvg-id="Gogo Play" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/gogo-play.png?itok=y2h4WQK8" group-title="Animation",Gogo Play
-https://250weu.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8?nimblesessionid=53933081
-#EXTINF:-1 tvg-id="Anime Loving TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/36882e29bc7a31b643af08a0f61e23c3.webp" group-title="Animation",Anime Loving TV
-http://animeloving.net/hls/stream.m3u8
+https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa_output_0.m3u8?session=3V72TKjX7CFJgUXgsX9CWv
+#EXTINF:-1 tvg-id="Mix Bolivia TV" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/gogo-play.png?itok=y2h4WQK8" group-title="Animation",Mix Bolivia TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/mixboliviatvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeekFan" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/36882e29bc7a31b643af08a0f61e23c3.webp" group-title="Animation",EnerGeekFan
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Animation",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimeTalTal" tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000016-be9cbbe9cd/1.png?ph=d0cdb7b2de" group-title="Animation",AnimeTalTal
 https://ssh101.bozztv.com/ssh101/taltal/chunks.m3u8
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
-http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Ener Geek Retro" tvg-logo="https://neotv.cl/assets/img/channels/eg-retro-3.png" group-title="Animation",Ener Geek Retro
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="animestationtv.com" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b12a63543eabe272b1603497844fc92f.webp" group-title="Anime",AnimeStation
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="animestationtv.com" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b12a63543eabe272b1603497844fc92f.webp" group-title="Anime",AnimeStation
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="animestationtv.com" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b12a63543eabe272b1603497844fc92f.webp" group-title="Anime",AnimeStation2
-https://rpn3.bozztv.com/ssh101/ssh101/livestreamtvla/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="animestationtv.com" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b12a63543eabe272b1603497844fc92f.webp" group-title="Anime",AnimeStation3
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8?nimblesessionid=120524399
-#EXTINF:-1 tvg-id="energeek.cl" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="Anime",EnerGeek Retro 1
-https://stream.wifiexpert.cl/energeek/canal-1/chunks.m3u8?nimblesessionid=40077356&rand=0.3217409047057207
+https://rpn3.bozztv.com/ssh101/ssh101/livestreamtvla/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Series",EnerGeek Fanpop (720p) [Not 24/7]
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8?nimblesessionid=38703476
-#EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Series",EnerGeek Fanpop (2)
-https://stream.wifiexpert.cl/energeek/canal-2/chunks.m3u8?nimblesessionid=40080156
-#EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro (720p) [Not 24/7]
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Series",EnerGeek Fanpop (3)
-https://stream.wifiexpert.cl/energeek/canal-2/chunks.m3u8?nimblesessionid=40077980
+#EXTINF:-1 tvg-id="DreikoTV.pa" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Animation",DreikoTv
+https://cloudvideo.servers10.com:8081/8096/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/cartoon_network.png" group-title="Animation",Cartoon Network
+https://envivo.cncity.live/hls/cncity.m3u8
+#EXTINF:-1 tvg-id="Moni TV" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/moni_tv.png" group-title="Animation",Moni TV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-id="locomotiontv.com" tvg-logo="https://i.ibb.co/Hnzb22J/locomotion.png" group-title="Anime",AnimeZLocomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-id="energeek.cl" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="Anime",EnerGeek Retro
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1 tvg-id="energeek.cl" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="Anime",EnerGeek Fanpop
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8?nimblesessionid=38703486
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z72VOYs.png" group-title="JOVENES Y ADULTOS", Rocket Channel
-https://cdnhd.iblups.com/hls/cTyg8oyNGU.m3u8
-#EXTINF:-1 tvg-id="MaxAnime" tvg-name="MaxAnime" tvg-logo="https://i.imgur.com/KUeV2YT.png" group-title="JOVENES Y ADULTOS",MaxAnine
+#EXTINF:-1 tvg-id="GOGOPlay" tvg-logo="https://neotv.cl/assets/img/channels/gogoplay-tv.png" group-title="Anime",GOGOPlay
+https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
+#EXTINF:-1 tvg-id="Magic Kids" tvg-logo="https://neotv.cl/assets/img/channels/magic-kids.png" group-title="Anime",Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-id="Z-Anime" tvg-logo="https://neotv.cl/assets/img/channels/ZTV.png" group-title="Anime", Z-Anime
+https://mitv.zplay.cl/Ztv/index.m3u8
+#EXTINF:-1 tvg-id="MaxAnime" tvg-name="MaxAnime" tvg-logo="https://i.imgur.com/KUeV2YT.png" group-title="Anime",MaxAnine
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Rf86qk2.jpg" group-title="Familiares",Xtrema TV Cartoons
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GwpJYZV.jpg" group-title="Familiares",Xtrema TV Retro Cartoons
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS
-https://xhateaec.com:8800/hls/luisms123/luisms123/c4b920b042b841b9216fa90968217b40/index.m3u8
-#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS (Opcion 2)
-https://cdnhd.iblups.com/hls/9loIOeAx9w.m3u8
+#EXTINF:-1 tvg-id="AniRetro" tvg-name="AniRetro" tvg-logo="https://neotv.cl/assets/img/channels/aniretro.png" group-title="Anime",AniRetro
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
+#EXTINF:-1 tvg-id="https://neotv.cl/canal?slug=canal-lms" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="Anime",Canal LMS
+https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimeOnegai" tvg-name="AnimeOnegai" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="Anime",AnimeOnegai
+https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8?_gl=1*60kngd*_ga*OTQxNjcwODYxLjE3MzM0NDI3MTg.*_ga_L2Z85CF6DV*MTczMzQ0MjcyMS4xLjEuMTczMzQ0MzE0Mi4zNS4wLjA.
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="JOVENES Y ADULTOS",VariedTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vhx4hxI.png" group-title="JOVENES Y ADULTOS",Loading HD Brasil
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares",ACS NETWORK TV
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Senpai TV" tvg-name="Senpai TV" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e5c35fdd5333d73c24af7_senpaitv.png" group-title="Familiares",Senpai TV
+https://bond-v.zappingtv.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzM0NjExOTAsImtleSI6IjcwNzFlYmYxNTVmZTE2NjI0N2M2ZjAzMTY0MTU4YWFlZWYyOWFkYzAyY2ZhZmU1YjE4YTMwYTYyM2QzZWY0MGIifQ.ZR_TuuJeFuec5B7QSDX1X0R9PKdwWzT_BQRQl8_bCIQ/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gb9K6i9.png" group-title="Familiares",Dreiko TV
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/671125ad5534bb00088b00c4/master.m3u8?advertisingId=&appName=web&appVersion=9.6.0-a4885044134e9550f33624d94056de15020c6adb&app_name=web&clientDeviceType=0&clientID=c1eadcd0-67c4-47e2-abce-5d608f707bb5&clientModelNumber=1.0.0&country=CO&deviceDNT=false&deviceId=c1eadcd0-67c4-47e2-abce-5d608f707bb5&deviceLat=4.5700&deviceLon=-74.2300&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=131.0.0&marketingRegion=VE&serverSideAds=false&sessionID=1dd4b4e3-b390-11ef-9341-2ede0d3f8ab2&sid=1dd4b4e3-b390-11ef-9341-2ede0d3f8ab2&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImEwYzliMzc3LTg4M2EtNGI0Mi1hODc0LTI3OTJhMjNkMmFiZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxZGQ0YjRlMy1iMzkwLTExZWYtOTM0MS0yZWRlMGQzZjhhYjIiLCJjbGllbnRJUCI6IjE3OS41MS4xMTkuNTMiLCJjaXR5IjoiU29hY2hhIiwicG9zdGFsQ29kZSI6IjI1MDA1MiIsImNvdW50cnkiOiJDTyIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOjQuNTcwMDAwMTcxNjYxMzc3LCJkZXZpY2VMb24iOi03NC4yMzAwMDMzNTY5MzM2LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzEuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjYuMC1hNDg4NTA0NDEzNGU5NTUwZjMzNjI0ZDk0MDU2ZGUxNTAyMGM2YWRiIiwiY2xpZW50SUQiOiJjMWVhZGNkMC02N2M0LTQ3ZTItYWJjZS01ZDYwOGY3MDdiYjUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Cb2dvdGEiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJjMWVhZGNkMC02N2M0LTQ3ZTItYWJjZS01ZDYwOGY3MDdiYjUiLCJmd1ZjSUQyQ29wcGEiOiJjMWVhZGNkMC02N2M0LTQ3ZTItYWJjZS01ZDYwOGY3MDdiYjUiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImMxZWFkY2QwLTY3YzQtNDdlMi1hYmNlLTVkNjA4ZjcwN2JiNSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMjAsMTAwMDAsMTAwMDksMTAwMDMsMTAwMTMsMTAwMTQsMTAwMTUsMTAwMTYifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpZekZsWVdSalpEQXROamRqTkMwME4yVXlMV0ZpWTJVdE5XUTJNRGhtTnpBM1ltSTEiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzMzNTQ4MTAyLCJpYXQiOjE3MzM0NjE3MDIsImp0aSI6IjAyYzI0ODZhLTRlNDctNDMyOS04ZjM4LTE0YTcwYzRiZWYxNiJ9.zHIbo7dvwDtsmHDA6VG8nJngc-A-w0CHy61NjDfOPDc&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEkkc5S3zLUBFYpr-2U_8X5rJJqR4Lf4dq4q3DKU2iRacDzn8BlqnOpcSMTmqtcVW5sfxdBprOwCZRMffUdaHpzoS59RwiUCDYg9Ozkx0tOX-SVeiRua8fceW0aoww1f8etG5s7uy55r7CvuGmtNNpCQ2QGRUAqlOTCWam3xE5W7iLWPRjdeMshl95_uuiVGU6Z6TRtvGPcCxsRinyQzWFmBUstavdH424pYvYnMPU2zchBZd3LiEsxq9BNxfYy6DParqB38fuH08YjEpKVW76sQNgPYC8GW_-VSeNCs85qjxrgzjrExz-qPeCufsR3tIHuVrwlQHL4K0s98IrnYUsgsTWDv0y1E0ltQNCiInRSdbPGT5-zfq6WedjV9Si9Qs3txDVZoJkGJkiAeA0MEvygh1XCXRSJfkLrPPeOB-D4A0vY3_wWiYSIHl0KlfWfg185hvwMdouclrV1fRiY1dxsrMMKGhD-bdjL6N86WhsENeDMFpgYVhKMn8fxaVkJD5-225fNVerMnhd0KcH7rZNKnDeDMWyIulUVDVHwMRjM1-frXZLZPARFosNWAF4z_qXSTnMdzr7aP_PYFI5LCLvsq6ri4gBu7dFzABDZLzWgqenRmkwGesMcPpbtVKVh82tU_AN0l0YM7ZuUnSCspJJQpQdMtQhtkiWwp-1G--BwR5auKrzgMzVUrQB4YhdYRDO8EGVQ9_dyBl0u6MmpVSeaeclwqG75Mhdq7P-Qo1XHiFJ2egWfQ0tcBjzlaNRqTjjwDRbu-SLQIz7GGE1Up4Yn6rYE4CIeQNmsgBpGFBrEByhTVX0xh8Fom5IyXfn6Lptf2WJSzAZfV16YiSgSXXuSOGSX7X73x0yfgcbN-tfvZmVmfh4r1SoADYooc7-nO4rLDvS7QeI7DW0ZB_vEce0shk8P40T8QAUSJ4F4UldQMC6IaO1s5NKC4QCmb41l1l2WvddOG76tmd0Uv7AdcZhr5Mqe5LWoQbal3P7uEd6gPghflO6AdRhHNVpJ8gFXi4nZsuzLCRMUhuzLfI4XuLR7QGIilSuCztdVeCpHYQcAJnQcxQkxfAlKHBopW6zARTPDuLeb3xyYn5W-2Wyv8XMz-6kMAxZboDLLqNsQXO5HuEQIx_OakorIPaS6hTiZimpJUdAiiV1mYX0QF1Z8TwijnPJZ4tpD92gZa8aTWwEh7z9EaCDj5I1IW3HFUM6-q0jUyq-MKEzolrSW8GAGbKGWdDMzC2REZfmHdCsLvyGL2gF-TRCBLrONVGmlEfH-eCvAPHE6ltGpCD6Q23eCDNniQsHLN-TpDf6ll1PB5B4axmSTw5800IOjq3p2NnHo209gxJzc2Ad4SsPsFiiHlrbgs_ywk711sTK0PPTBMf3Ran2QEWkeTmBTuPuH58.&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220c377ecd-0544-41e1-b7c8-e713cf5eab76%22%2Csu
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Familiares",Magic Kids TV
 https://xhateaec.com:8800/hls/MagicKidsTv/MagicKidsTv/1ee9d2a56f6029f1a90245bad8b0f9f2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Familiares",Magic
@@ -193,7 +194,7 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-id="El Magic TV" tvg-name="El Magic TV" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="Familiares",El Magic TV
-https://kali.vdopanel.com:3070/stream/play.m3u8
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/671125ad5534bb00088b00c4/master.m3u8?advertisingId=&appName=web&appVersion=9.6.0-a4885044134e9550f33624d94056de15020c6adb&app_name=web&clientDeviceType=0&clientID=c1eadcd0-67c4-47e2-abce-5d608f707bb5&clientModelNumber=1.0.0&country=CO&deviceDNT=false&deviceId=c1eadcd0-67c4-47e2-abce-5d608f707bb5&deviceLat=4.5700&deviceLon=-74.2300&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=131.0.0&marketingRegion=VE&serverSideAds=false&sessionID=1dd4b4e3-b390-11ef-9341-2ede0d3f8ab2&sid=1dd4b4e3-b390-11ef-9341-2ede0d3f8ab2&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImEwYzliMzc3LTg4M2EtNGI0Mi1hODc0LTI3OTJhMjNkMmFiZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxZGQ0YjRlMy1iMzkwLTExZWYtOTM0MS0yZWRlMGQzZjhhYjIiLCJjbGllbnRJUCI6IjE3OS41MS4xMTkuNTMiLCJjaXR5IjoiU29hY2hhIiwicG9zdGFsQ29kZSI6IjI1MDA1MiIsImNvdW50cnkiOiJDTyIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOjQuNTcwMDAwMTcxNjYxMzc3LCJkZXZpY2VMb24iOi03NC4yMzAwMDMzNTY5MzM2LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzEuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjYuMC1hNDg4NTA0NDEzNGU5NTUwZjMzNjI0ZDk0MDU2ZGUxNTAyMGM2YWRiIiwiY2xpZW50SUQiOiJjMWVhZGNkMC02N2M0LTQ3ZTItYWJjZS01ZDYwOGY3MDdiYjUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Cb2dvdGEiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJjMWVhZGNkMC02N2M0LTQ3ZTItYWJjZS01ZDYwOGY3MDdiYjUiLCJmd1ZjSUQyQ29wcGEiOiJjMWVhZGNkMC02N2M0LTQ3ZTItYWJjZS01ZDYwOGY3MDdiYjUiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImMxZWFkY2QwLTY3YzQtNDdlMi1hYmNlLTVkNjA4ZjcwN2JiNSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMjAsMTAwMDAsMTAwMDksMTAwMDMsMTAwMTMsMTAwMTQsMTAwMTUsMTAwMTYifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpZekZsWVdSalpEQXROamRqTkMwME4yVXlMV0ZpWTJVdE5XUTJNRGhtTnpBM1ltSTEiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzMzNTQ4MTAyLCJpYXQiOjE3MzM0NjE3MDIsImp0aSI6IjAyYzI0ODZhLTRlNDctNDMyOS04ZjM4LTE0YTcwYzRiZWYxNiJ9.zHIbo7dvwDtsmHDA6VG8nJngc-A-w0CHy61NjDfOPDc&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEkkc5S3zLUBFYpr-2U_8X5rJJqR4Lf4dq4q3DKU2iRacDzn8BlqnOpcSMTmqtcVW5sfxdBprOwCZRMffUdaHpzoS59RwiUCDYg9Ozkx0tOX-SVeiRua8fceW0aoww1f8etG5s7uy55r7CvuGmtNNpCQ2QGRUAqlOTCWam3xE5W7iLWPRjdeMshl95_uuiVGU6Z6TRtvGPcCxsRinyQzWFmBUstavdH424pYvYnMPU2zchBZd3LiEsxq9BNxfYy6DParqB38fuH08YjEpKVW76sQNgPYC8GW_-VSeNCs85qjxrgzjrExz-qPeCufsR3tIHuVrwlQHL4K0s98IrnYUsgsTWDv0y1E0ltQNCiInRSdbPGT5-zfq6WedjV9Si9Qs3txDVZoJkGJkiAeA0MEvygh1XCXRSJfkLrPPeOB-D4A0vY3_wWiYSIHl0KlfWfg185hvwMdouclrV1fRiY1dxsrMMKGhD-bdjL6N86WhsENeDMFpgYVhKMn8fxaVkJD5-225fNVerMnhd0KcH7rZNKnDeDMWyIulUVDVHwMRjM1-frXZLZPARFosNWAF4z_qXSTnMdzr7aP_PYFI5LCLvsq6ri4gBu7dFzABDZLzWgqenRmkwGesMcPpbtVKVh82tU_AN0l0YM7ZuUnSCspJJQpQdMtQhtkiWwp-1G--BwR5auKrzgMzVUrQB4YhdYRDO8EGVQ9_dyBl0u6MmpVSeaeclwqG75Mhdq7P-Qo1XHiFJ2egWfQ0tcBjzlaNRqTjjwDRbu-SLQIz7GGE1Up4Yn6rYE4CIeQNmsgBpGFBrEByhTVX0xh8Fom5IyXfn6Lptf2WJSzAZfV16YiSgSXXuSOGSX7X73x0yfgcbN-tfvZmVmfh4r1SoADYooc7-nO4rLDvS7QeI7DW0ZB_vEce0shk8P40T8QAUSJ4F4UldQMC6IaO1s5NKC4QCmb41l1l2WvddOG76tmd0Uv7AdcZhr5Mqe5LWoQbal3P7uEd6gPghflO6AdRhHNVpJ8gFXi4nZsuzLCRMUhuzLfI4XuLR7QGIilSuCztdVeCpHYQcAJnQcxQkxfAlKHBopW6zARTPDuLeb3xyYn5W-2Wyv8XMz-6kMAxZboDLLqNsQXO5HuEQIx_OakorIPaS6hTiZimpJUdAiiV1mYX0QF1Z8TwijnPJZ4tpD92gZa8aTWwEh7z9EaCDj5I1IW3HFUM6-q0jUyq-MKEzolrSW8GAGbKGWdDMzC2REZfmHdCsLvyGL2gF-TRCBLrONVGmlEfH-eCvAPHE6ltGpCD6Q23eCDNniQsHLN-TpDf6ll1PB5B4axmSTw5800IOjq3p2NnHo209gxJzc2Ad4SsPsFiiHlrbgs_ywk711sTK0PPTBMf3Ran2QEWkeTmBTuPuH58.&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220c377ecd-0544-41e1-b7c8-e713cf5eab76%22%2Csu
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Familiares",Retro Infantil
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
@@ -924,8 +925,6 @@ https://v4.tustreaming.cl/s1tv/playlist.m3u8
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-id="DoctorWho.us" tvg-logo="https://i.imgur.com/naz0HAW.png" group-title="Undefined",Doctor Who (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="DreikoTV.pa" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Animation",DreikoTv (480p) [Not 24/7]
-https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DTPlay.bo" tvg-logo="https://i.imgur.com/2nVIjho.png" group-title="Sports",DT Play (Deporte Total) (720p) [Not 24/7]
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
