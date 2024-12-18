@@ -110,7 +110,7 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w10843698
 #EXTINF:-1 tvg-id="VisionTV" tvg-name="VisionTV" tvg-logo="https://lc.cx/Lc_XUO" group-title="JOVENES Y ADULTOS",VisionTV
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="RetroPlusTV" tvg-name="RetroPlusTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="JOVENES Y ADULTOS",RetroPlusTV
-https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w179820137.m3u8
+https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u
 #EXTINF:-1 tvg-id="Vclassic Tv" tvg-name="Vclassic Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7a80e50a4516a948ce4dd6ac10912ec2.webp" group-title="JOVENES Y ADULTOS",Vclassic Tv
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w646988500.m3u8
 #EXTINF:-1 tvg-id="CineFriki" tvg-name="CineFriki" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f667db78acfeca3e792be86616ee96f.webp" group-title="JOVENES Y ADULTOS",CineFriki
@@ -119,7 +119,6 @@ https://d2jqgm8hyia1n3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w159087467.m3u8
 #EXTINF:-1 tvg-id="TerrorTV" tvg-name="TerrorTV" tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png" group-title="JOVENES Y ADULTOS",TerrorTV
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
-
 
 #EXTINF:-1 tvg-id="LatinoKids" tvg-logo="" group-title="Anime",LatinoKids
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
