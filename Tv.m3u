@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="photocall.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",RockTV
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-id="RockTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",RockTV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 tvg-id="RockTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",RockTV2
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="General",7 TeleValencia (576p)
 https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/7TVRM.svg/512px-7TVRM.svg.png" group-title="Undefined",7 Televisión Región de Murcia (1080p)
@@ -103,8 +103,8 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="AndesTelevision.pe" tvg-logo="https://i.imgur.com/CsW4Op8.png" group-title="Religious",Andes Televisión (Sicusani) (720p) [Not 24/7]
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-#EXTINF:-1 tvg-id="AnexionTV.cr" tvg-logo="https://i.imgur.com/7pfXF8N.png" group-title="Undefined",Anexión TV Canal 36 (1080p)
-https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Wasabi la chaîne anime
+https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV" tvg-name="ExtremaTV" tvg-logo="https://television-libre.online/img/dream.png" group-title="JOVENES Y ADULTOS",ExtremaTV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w1084369828.m3u8
 #EXTINF:-1 tvg-id="VisionTV" tvg-name="VisionTV" tvg-logo="https://lc.cx/Lc_XUO" group-title="JOVENES Y ADULTOS",VisionTV
@@ -166,6 +166,8 @@ https://envivo.cncity.live/hls/cncity.m3u8
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-id="locomotiontv.com" tvg-logo="https://i.ibb.co/Hnzb22J/locomotion.png" group-title="Anime",AnimeZLocomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="https://www.animeonegai.com/es/watch/1Wz7n8vXjXrQzIG2o" tvg-logo="https://neotv.cl/assets/img/channels/gogoplay-tv.png" group-title="Anime",GOGOPlay
+https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
 #EXTINF:-1 tvg-id="GOGOPlay" tvg-logo="https://neotv.cl/assets/img/channels/gogoplay-tv.png" group-title="Anime",GOGOPlay
 https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
 #EXTINF:-1 tvg-id="Magic Kids" tvg-logo="https://neotv.cl/assets/img/channels/magic-kids.png" group-title="Anime",Magic Kids
@@ -185,11 +187,12 @@ https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vhx4hxI.png" group-title="JOVENES Y ADULTOS",Loading HD Brasil
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PelisyPopcorn.us" tvg-logo="https://i.imgur.com/jP19sGt.png" group-title="Undefined",Pelis y Popcorn
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
 
-#EXTINF:-1 tvg-id="Senpai TV" tvg-name="Senpai TV" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e5c35fdd5333d73c24af7_senpaitv.png" group-title="Familiares",Senpai TV
 https://bond-v.zappingtv.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzM0NjExOTAsImtleSI6IjcwNzFlYmYxNTVmZTE2NjI0N2M2ZjAzMTY0MTU4YWFlZWYyOWFkYzAyY2ZhZmU1YjE4YTMwYTYyM2QzZWY0MGIifQ.ZR_TuuJeFuec5B7QSDX1X0R9PKdwWzT_BQRQl8_bCIQ/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gb9K6i9.png" group-title="Familiares",Dreiko TV
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/671125ad5534bb00088b00c4/master.m3u8?advertisingId=&appName=web&appVersion=9.6.0-a4885044134e9550f33624d94056de15020c6adb&app_name=web&clientDeviceType=0&clientID=c1eadcd0-67c4-47e2-abce-5d608f707bb5&clientModelNumber=1.0.0&country=CO&deviceDNT=false&deviceId=c1eadcd0-67c4-47e2-abce-5d608f707bb5&deviceLat=4.5700&deviceLon=-74.2300&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=131.0.0&marketingRegion=VE&serverSideAds=false&sessionID=1dd4b4e3-b390-11ef-9341-2ede0d3f8ab2&sid=1dd4b4e3-b390-11ef-9341-2ede0d3f8ab2&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImEwYzliMzc3LTg4M2EtNGI0Mi1hODc0LTI3OTJhMjNkMmFiZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxZGQ0YjRlMy1iMzkwLTExZWYtOTM0MS0yZWRlMGQzZjhhYjIiLCJjbGllbnRJUCI6IjE3OS41MS4xMTkuNTMiLCJjaXR5IjoiU29hY2hhIiwicG9zdGFsQ29kZSI6IjI1MDA1MiIsImNvdW50cnkiOiJDTyIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOjQuNTcwMDAwMTcxNjYxMzc3LCJkZXZpY2VMb24iOi03NC4yMzAwMDMzNTY5MzM2LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzEuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjYuMC1hNDg4NTA0NDEzNGU5NTUwZjMzNjI0ZDk0MDU2ZGUxNTAyMGM2YWRiIiwiY2xpZW50SUQiOiJjMWVhZGNkMC02N2M0LTQ3ZTItYWJjZS01ZDYwOGY3MDdiYjUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Cb2dvdGEiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJjMWVhZGNkMC02N2M0LTQ3ZTItYWJjZS01ZDYwOGY3MDdiYjUiLCJmd1ZjSUQyQ29wcGEiOiJjMWVhZGNkMC02N2M0LTQ3ZTItYWJjZS01ZDYwOGY3MDdiYjUiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImMxZWFkY2QwLTY3YzQtNDdlMi1hYmNlLTVkNjA4ZjcwN2JiNSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMjAsMTAwMDAsMTAwMDksMTAwMDMsMTAwMTMsMTAwMTQsMTAwMTUsMTAwMTYifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpZekZsWVdSalpEQXROamRqTkMwME4yVXlMV0ZpWTJVdE5XUTJNRGhtTnpBM1ltSTEiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzMzNTQ4MTAyLCJpYXQiOjE3MzM0NjE3MDIsImp0aSI6IjAyYzI0ODZhLTRlNDctNDMyOS04ZjM4LTE0YTcwYzRiZWYxNiJ9.zHIbo7dvwDtsmHDA6VG8nJngc-A-w0CHy61NjDfOPDc&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEkkc5S3zLUBFYpr-2U_8X5rJJqR4Lf4dq4q3DKU2iRacDzn8BlqnOpcSMTmqtcVW5sfxdBprOwCZRMffUdaHpzoS59RwiUCDYg9Ozkx0tOX-SVeiRua8fceW0aoww1f8etG5s7uy55r7CvuGmtNNpCQ2QGRUAqlOTCWam3xE5W7iLWPRjdeMshl95_uuiVGU6Z6TRtvGPcCxsRinyQzWFmBUstavdH424pYvYnMPU2zchBZd3LiEsxq9BNxfYy6DParqB38fuH08YjEpKVW76sQNgPYC8GW_-VSeNCs85qjxrgzjrExz-qPeCufsR3tIHuVrwlQHL4K0s98IrnYUsgsTWDv0y1E0ltQNCiInRSdbPGT5-zfq6WedjV9Si9Qs3txDVZoJkGJkiAeA0MEvygh1XCXRSJfkLrPPeOB-D4A0vY3_wWiYSIHl0KlfWfg185hvwMdouclrV1fRiY1dxsrMMKGhD-bdjL6N86WhsENeDMFpgYVhKMn8fxaVkJD5-225fNVerMnhd0KcH7rZNKnDeDMWyIulUVDVHwMRjM1-frXZLZPARFosNWAF4z_qXSTnMdzr7aP_PYFI5LCLvsq6ri4gBu7dFzABDZLzWgqenRmkwGesMcPpbtVKVh82tU_AN0l0YM7ZuUnSCspJJQpQdMtQhtkiWwp-1G--BwR5auKrzgMzVUrQB4YhdYRDO8EGVQ9_dyBl0u6MmpVSeaeclwqG75Mhdq7P-Qo1XHiFJ2egWfQ0tcBjzlaNRqTjjwDRbu-SLQIz7GGE1Up4Yn6rYE4CIeQNmsgBpGFBrEByhTVX0xh8Fom5IyXfn6Lptf2WJSzAZfV16YiSgSXXuSOGSX7X73x0yfgcbN-tfvZmVmfh4r1SoADYooc7-nO4rLDvS7QeI7DW0ZB_vEce0shk8P40T8QAUSJ4F4UldQMC6IaO1s5NKC4QCmb41l1l2WvddOG76tmd0Uv7AdcZhr5Mqe5LWoQbal3P7uEd6gPghflO6AdRhHNVpJ8gFXi4nZsuzLCRMUhuzLfI4XuLR7QGIilSuCztdVeCpHYQcAJnQcxQkxfAlKHBopW6zARTPDuLeb3xyYn5W-2Wyv8XMz-6kMAxZboDLLqNsQXO5HuEQIx_OakorIPaS6hTiZimpJUdAiiV1mYX0QF1Z8TwijnPJZ4tpD92gZa8aTWwEh7z9EaCDj5I1IW3HFUM6-q0jUyq-MKEzolrSW8GAGbKGWdDMzC2REZfmHdCsLvyGL2gF-TRCBLrONVGmlEfH-eCvAPHE6ltGpCD6Q23eCDNniQsHLN-TpDf6ll1PB5B4axmSTw5800IOjq3p2NnHo209gxJzc2Ad4SsPsFiiHlrbgs_ywk711sTK0PPTBMf3Ran2QEWkeTmBTuPuH58.&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220c377ecd-0544-41e1-b7c8-e713cf5eab76%22%2Csu
+https://cloudvideo.servers10.com:8081/8096/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Familiares",Magic Kids TV
 https://xhateaec.com:8800/hls/MagicKidsTv/MagicKidsTv/1ee9d2a56f6029f1a90245bad8b0f9f2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Familiares",Magic
