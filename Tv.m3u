@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/en/rev.bs.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml,https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/comteco.com.bo.xml,https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml,https://iptv-org.github.io/epg/guides/es/ontvtonight.com.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.xml,https://iptv-org.github.io/epg/guides/es/reportv.com.ar.xml,https://iptv-org.github.io/epg/guides/es/siba.com.co.xml,https://iptv-org.github.io/epg/guides/es/tv.movistar.com.pe.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
-#EXTINF:-1 tvg-id="5TVArgentina.ar" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Undefined",5TV (Corrientes) (480p) [Not 24/7]
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="photocall.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",RockTV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-id="7NN.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/7NN_TV.svg/512px-7NN_TV.svg.png" group-title="News",7NN Noticias (1080p)
 https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8
 #EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="General",7 TeleValencia (576p)
@@ -113,8 +113,8 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u
 #EXTINF:-1 tvg-id="Vclassic Tv" tvg-name="Vclassic Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7a80e50a4516a948ce4dd6ac10912ec2.webp" group-title="JOVENES Y ADULTOS",Vclassic Tv
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w646988500.m3u8
-#EXTINF:-1 tvg-id="CineFriki" tvg-name="CineFriki" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f667db78acfeca3e792be86616ee96f.webp" group-title="JOVENES Y ADULTOS",CineFriki
-https://d2jqgm8hyia1n3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/ebfda812-86d2-4485-bfc9-efecd62e310e/1.m3u8
+#EXTINF:-1 tvg-id="MoniTV" tvg-name="CineFriki" tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="Familiar",MoniTV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-id="Planeta TV Movie" tvg-name="Planeta TV Movie" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99912765d4b4234eab782b5beb81286d.webp" group-title="JOVENES Y ADULTOS",Planeta TV Movie
 https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w159087467.m3u8
 #EXTINF:-1 tvg-id="TerrorTV" tvg-name="TerrorTV" tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png" group-title="JOVENES Y ADULTOS",TerrorTV
@@ -145,7 +145,7 @@ https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Animation",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimeTalTal" tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000016-be9cbbe9cd/1.png?ph=d0cdb7b2de" group-title="Animation",AnimeTalTal
-https://ssh101.bozztv.com/ssh101/taltal/chunks.m3u8
+https://ssh101.bozztv.com/ssh101/taltal/chunks.m3u8rock
 #EXTINF:-1 tvg-id="Ener Geek Retro" tvg-logo="https://neotv.cl/assets/img/channels/eg-retro-3.png" group-title="Animation",Ener Geek Retro
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
@@ -156,8 +156,8 @@ https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="animestationtv.com" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b12a63543eabe272b1603497844fc92f.webp" group-title="Anime",AnimeStation3
 https://rpn3.bozztv.com/ssh101/ssh101/livestreamtvla/playlist.m3u8
-#EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Series",EnerGeek Fanpop (720p) [Not 24/7]
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8?nimblesessionid=38703476
+#EXTINF:-1 tvg-id="GenTV Digital" tvg-logo="https://neotv.cl/assets/img/channels/gentv-digital.png" group-title="Series",GenTV Digital
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-id="DreikoTV.pa" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Animation",DreikoTv
 https://cloudvideo.servers10.com:8081/8096/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/cartoon_network.png" group-title="Animation",Cartoon Network
@@ -178,8 +178,8 @@ https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
 #EXTINF:-1 tvg-id="https://neotv.cl/canal?slug=canal-lms" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="Anime",Canal LMS
 https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
-#EXTINF:-1 tvg-id="AnimeOnegai" tvg-name="AnimeOnegai" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="Anime",AnimeOnegai
-https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8?_gl=1*60kngd*_ga*OTQxNjcwODYxLjE3MzM0NDI3MTg.*_ga_L2Z85CF6DV*MTczMzQ0MjcyMS4xLjEuMTczMzQ0MzE0Mi4zNS4wLjA.
+#EXTINF:-1 tvg-id="KidsMovieClub.us" tvg-logo="https://i.imgur.com/avFk0Tt.png" group-title="Kids;Movies",Kids Movie Club
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="JOVENES Y ADULTOS",VariedTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vhx4hxI.png" group-title="JOVENES Y ADULTOS",Loading HD Brasil
@@ -256,8 +256,6 @@ https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
 https://video20.klm99.com:3558/live/teleredlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YLRzeS8.png" group-title="LATINO",Planetatv movie
 https://tls-cl.cdnz.cl/movie/live/playlist.m3u8
-#EXTINF:-1 tvg-id="photocall.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",RockTV
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena7.do" tvg-logo="https://i.imgur.com/B9z1XRo.png" group-title="Undefined",Antena 7 (360p)
