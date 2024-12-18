@@ -94,17 +94,16 @@ http://209.91.213.10:8088/play/a013
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaTucuman.ar" tvg-logo="https://i.imgur.com/TJmzwv9.png" group-title="News",América Tucumán (720p)
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
-#EXTVLCOPT:http-user-agent=iPhone
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1 tvg-id="Amordiscos.co" tvg-logo="https://i.imgur.com/hO0cTDf.png" group-title="Music",Amordiscos (480p)
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="AndesTelevision.pe" tvg-logo="https://i.imgur.com/CsW4Op8.png" group-title="Religious",Andes Televisión (Sicusani) (720p) [Not 24/7]
-https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",90's Kids
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565
+#EXTINF:-1 tvg-id="CineMax" tvg-logo="https://i.imgur.com/hO0cTDf.png" group-title="Movies",CineMax
+https://live.sdfgnksbounce.com:8080/MTc5LjUxLjExOS41Mw==/43_.m3u8?token=n6SJkwSzpnlp33YEAHGG6Q&expires=1734575687
+#EXTINF:-1 tvg-id="CineMax" tvg-logo="https://i.imgur.com/hO0cTDf.png" group-title="Movies",CineMax
+https://live.sdfgnksbounce.com:8080/MTc5LjUxLjExOS41Mw==/43_.m3u8?token=n6SJkwSzpnlp33YEAHGG6Q&expires=1734575687
+#EXTINF:-1 tvg-id="warnerchannel.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/280px-Warner_Channel_HD.svg.png" group-title="Entertainment",Warner_Channel Latino (1080p)
+https://live.sdfgnksbounce.com:8080/MTc5LjUxLjExOS41Mw==/40_.m3u8?token=eIfQ0cczKML2Nu7mz1RUcA&expires=1734575927
+#EXTINF:-1 tvg-id="Canela Cinema" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a2da8f3be33f009b4571681996ec68e7.webp" group-title="Movies",Canela Cinema
+https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg00658-canelamediainc-canelacinema-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine Kids" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eb23903cf0a778ea0a667ba01a9a8d05.webp" group-title="Movies",Cine Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 #EXTINF:-1 tvg-id="ExtremaTV" tvg-name="ExtremaTV" tvg-logo="https://television-libre.online/img/dream.png" group-title="JOVENES Y ADULTOS",ExtremaTV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w1084369828.m3u8
 #EXTINF:-1 tvg-id="VisionTV" tvg-name="VisionTV" tvg-logo="https://lc.cx/Lc_XUO" group-title="JOVENES Y ADULTOS",VisionTV
@@ -120,7 +119,13 @@ https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w159087467.m3u8
 #EXTINF:-1 tvg-id="TerrorTV" tvg-name="TerrorTV" tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png" group-title="JOVENES Y ADULTOS",TerrorTV
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
-#EXTINF:-1 tvg-id="LatinoKids" tvg-logo="" group-title="Anime",LatinoKids
+#EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel
+https://live.sdfgnksbounce.com:8080/MTc5LjUxLjExOS41Mw==/353_.m3u8?token=2JLBmD9QsqAukedrCOrecA&expires=1734575702
+#EXTINF:-1 tvg-id="Cartoon Network City" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/cartoon_network.png" group-title="Animation",Cartoon Network City
+https://envivo.cncity.live/hls/cncity.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-5DEA5FA222-seeklogo.com.png" group-title="Kids",Disney Channel
+https://live.sdfgnksbounce.com:8080/MTc5LjUxLjExOS41Mw==/110_.m3u8?token=Zu8IDEW67f3P3mYBLtYQEQ&expires=1734575708
+#EXTINF:-1 tvg-id="LatinoKids" tvg-logo="" group-title="Kids",Nickelodeon
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Variedtv" tvg-logo="" group-title="Anime",Variedtv
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
@@ -160,8 +165,6 @@ https://rpn3.bozztv.com/ssh101/ssh101/livestreamtvla/playlist.m3u8
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-id="DreikoTV.pa" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Animation",DreikoTv
 https://cloudvideo.servers10.com:8081/8096/index.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/cartoon_network.png" group-title="Animation",Cartoon Network
-https://envivo.cncity.live/hls/cncity.m3u8
 #EXTINF:-1 tvg-id="Moni TV" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/moni_tv.png" group-title="Animation",Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-id="locomotiontv.com" tvg-logo="https://i.ibb.co/Hnzb22J/locomotion.png" group-title="Anime",AnimeZLocomotion
@@ -205,8 +208,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w921071361.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTINF:-1 tvg-id="ZAZ TV" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 2 KIDS HD" tvg-logo="https://i.imgur.com/Vyo10wb.png" group-title="Familiares",SEO TV 2 KIDS HD
 https://live.seo.tv.bo/live/2SEO.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FCKZbRR.png" group-title="JOVENES Y ADULTOS",Magic Team
@@ -919,7 +922,6 @@ https://emisoras.hn:8081/diostevekids/playlist.m3u8
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-id="DismarTV.py" tvg-logo="https://lh3.googleusercontent.com/-GT3zuzkxAfw/YH9fJbWcd3I/AAAAAAABB0E/XiKNqrOnZroPtJCy_4UK4qH_IPEWBs7YACK8BGAsYHg/s512/2021-04-20.jpg" group-title="Undefined",DismarTV
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel España (1080p)
 http://5.255.90.184:2004/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="DJLonchoTV.cl" tvg-logo="https://lh3.googleusercontent.com/-VPBp6Vk47T4/XnzDahiuJCI/AAAAAAAAxMI/BkejtQRObwcVvsIvYbdi3Yf5UOizKSRoQCK8BGAsYHg/s0/2020-03-26.png" group-title="Undefined",DJ Loncho TV (720p)
 https://srv5.zcast.com.br/djlonchtv/djlonchtv/playlist.m3u8
@@ -2631,8 +2633,6 @@ https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 https://videoserver.ideskhn.com:3863/live/waldivisionlive.m3u8
 #EXTINF:-1 tvg-id="Wapp.cl" tvg-logo="https://i.imgur.com/Bv1yJ1d.png" group-title="Lifestyle",Wapp (1080p)
 https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
-#EXTINF:-1 tvg-id="warnerchannel.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/280px-Warner_Channel_HD.svg.png" group-title="Entertainment",Warner_Channel Latino (1080p)
-https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CpkFi7CeI--SzrBq1-xIM3VV36di4lWCDMwRspv1UI_i3nY8-s0_ONYulNqEI-yJnwxbwVhwDzwX6pZdrLk2qvx1gsGdtYV1WnbYnIyfERPHq8iExkCBGYZHV5aT_83FJF19MC_CEqYyzjeqTC0jyAMkFHHuHHgRSJmDEggV4Vj4XZwMMU9cy2aiV140VeaCGwwUElF7vtqgcnNFuelM9kbTHU0kprIENTWGkUF-dsXLsJAystMUjtWEWnS8HV0aOVp8DvmWiFhQWb3Jh1-IsJSH4LGFi-0a9nFVmfF58cKAYwb6I8XK84g1M206aX7MKd4iPARIwzOHaWBVOV50hAM9qqUwmsU7K9Duhx5rdmWmHosDuVXlhUFtAzojnMSZBqi0wqUw4tY5nYqmKV26QMhFpe6pp2qVeBs_NZdKA_-XdxyILyVUoz3Xt_5KWTYDj9x_y93EVtoC7yVK2kq_UVlPq1Mwj5jAlYOnXYN_FWICKv0BQSTnEI80a8BqLO2hJqO6svXgPVm3B_gsGVW01RYv_fhdLamW1X0sr0wNRu67OfA8XreA07IrxPuN-fb1aaa0N0W3l2Lq-2GL0O_0MNa0cZ8dM442N3vg473fkiEqYovBuI3V3IlCWgjUM4-hH2ZklISUzZnaY9c3QNXbjbzU6SlmrBZ3TKWLRNcBAwtyN4Pn3v3x9y9QyvUoXk-TnRfGxbIDFJsb503nH1vDqE85quY2UPV1eBPV22K5wP3zdLF13c2aeUSAOkcgayd__l7lD8eRnGNC9bB0Y8SLPokYDPqLhVd0_7n_Uq5E8TiVZ0Zmf_n4uyafpU_HBZ_1aB52JVCSwl2A--a2bohAii5n72xb9IoT_m0FwCJU6DIuQ3EPOJ5IuPYP4H4aDJgHtiv3zij_RqMP8CABKglldS13ZXN0LTIwlwY.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p) [Not 24/7]
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Entertainment",WTV Canal 20 (720p)
