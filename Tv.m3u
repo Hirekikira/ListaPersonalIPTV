@@ -124,10 +124,12 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Variedtv" tvg-logo="" group-title="Anime",Variedtv
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+#EXTINF:-1 tvg-id="Bigtv" tvg-logo="https://neotv.cl/assets/img/channels/big-tv.png" group-title="Anime",Bigtv
+https://xhateaec.com:8800/hls/bigtv/bigtv/2e7c0930c48d249969862b4c76ab97c8/index.m3u8
 #EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://i.imgur.com/WM4FXod.png" group-title="Entertainment",Kanade (720p)
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="Anime",DisneyChannel
-https://live.sdfgnksbounce.com:8080/MTc5LjUxLjExOS41Mw==/353_.m3u8?token=gEyez4K4sm2RK_EtsWxsAw&expires=1734563886
+#EXTINF:-1 tvg-id="Canal Rex" tvg-logo="https://neotv.cl/assets/img/channels/canal-rex.png" group-title="Retro",Canal Rex
+https://v4.tustreaming.cl/canalrex/index.m3u8
 #EXTINF:-1 tvg-id="+Cine" tvg-name="+Cine" tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="JOVENES Y ADULTOS",+Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-id="Xtrema TV" tvg-name="Xtrema TV" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="JOVENES Y ADULTOS",Xtrema TV Anime HD
