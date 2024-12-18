@@ -119,12 +119,14 @@ https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w159087467.m3u8
 #EXTINF:-1 tvg-id="TerrorTV" tvg-name="TerrorTV" tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png" group-title="JOVENES Y ADULTOS",TerrorTV
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-5DEA5FA222-seeklogo.com.png" group-title="Kids",Nickelodeon
+https://live.sdfgnksbounce.com:8080/MTc5LjUxLjExOS41Mw==/110_.m3u8?token=Zu8IDEW67f3P3mYBLtYQEQ&expires=1734575708
 #EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel
 https://live.sdfgnksbounce.com:8080/MTc5LjUxLjExOS41Mw==/353_.m3u8?token=2JLBmD9QsqAukedrCOrecA&expires=1734575702
 #EXTINF:-1 tvg-id="Cartoon Network City" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/cartoon_network.png" group-title="Animation",Cartoon Network City
 https://envivo.cncity.live/hls/cncity.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-5DEA5FA222-seeklogo.com.png" group-title="Kids",Disney Channel
-https://live.sdfgnksbounce.com:8080/MTc5LjUxLjExOS41Mw==/110_.m3u8?token=Zu8IDEW67f3P3mYBLtYQEQ&expires=1734575708
+
+
 #EXTINF:-1 tvg-id="LatinoKids" tvg-logo="" group-title="Kids",Nickelodeon
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Variedtv" tvg-logo="" group-title="Anime",Variedtv
