@@ -122,10 +122,12 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
 #EXTINF:-1 tvg-id="LatinoKids" tvg-logo="" group-title="Anime",LatinoKids
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Variedtv" tvg-logo="" group-title="Anime",Variedtv
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://i.imgur.com/WM4FXod.png" group-title="Entertainment",Kanade (720p)
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="Anime",DisneyChannel
-http://168.181.122.234:8000/play/a038/index.m3u8
+https://live.sdfgnksbounce.com:8080/MTc5LjUxLjExOS41Mw==/353_.m3u8?token=gEyez4K4sm2RK_EtsWxsAw&expires=1734563886
 #EXTINF:-1 tvg-id="+Cine" tvg-name="+Cine" tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="JOVENES Y ADULTOS",+Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-id="Xtrema TV" tvg-name="Xtrema TV" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="JOVENES Y ADULTOS",Xtrema TV Anime HD
