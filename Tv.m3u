@@ -92,26 +92,24 @@ https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/62407
 http://209.91.213.10:8088/play/a013
 #EXTINF:-1 tvg-id="Ame47.do" tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="Undefined",Amé 47 (720p)
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericaTucuman.ar" tvg-logo="https://i.imgur.com/TJmzwv9.png" group-title="News",América Tucumán (720p)
-https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-#EXTINF:-1 tvg-id="CineMax" tvg-logo="https://i.imgur.com/hO0cTDf.png" group-title="Movies",CineMax
-https://live.sdfgnksbounce.com:8080/MTc5LjUxLjExOS41Mw==/43_.m3u8?token=n6SJkwSzpnlp33YEAHGG6Q&expires=1734575687
-#EXTINF:-1 tvg-id="CineMax" tvg-logo="https://i.imgur.com/hO0cTDf.png" group-title="Movies",CineMax
-https://live.sdfgnksbounce.com:8080/MTc5LjUxLjExOS41Mw==/43_.m3u8?token=n6SJkwSzpnlp33YEAHGG6Q&expires=1734575687
-#EXTINF:-1 tvg-id="warnerchannel.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/280px-Warner_Channel_HD.svg.png" group-title="Entertainment",Warner_Channel Latino (1080p)
-https://live.sdfgnksbounce.com:8080/MTc5LjUxLjExOS41Mw==/40_.m3u8?token=eIfQ0cczKML2Nu7mz1RUcA&expires=1734575927
+#EXTINF:-1 tvg-id="Canela Cinema" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a2da8f3be33f009b4571681996ec68e7.webp" group-title="Movies",Canela Cinema
+https://amg00658-amg00658c23-canelatv-international-5053.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvltapp-canelatvinternational/playlist.m3u8?rights_holder_id=canela-tv2&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=c736facd-e31f-41ce-b057-93b0983b02d2&url=https://canela.tv/&us_privacy=null_us_privacy&coppa=0&ifa_type=NA&lmt=NA&device_language=es
+#EXTINF:-1 tvg-id="Canela Cinema Desastres" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a2da8f3be33f009b4571681996ec68e7.webp" group-title="Movies",Canela Cinema Desastres
+https://amg00658-amg00658c19-canelatv-international-5044.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-caneladesastres-canelatvinternational/playlist.m3u8?rights_holder_id=canela-desastres&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=c736facd-e31f-41ce-b057-93b0983b02d2&url=https://canela.tv/player/channel/canela-desastres&us_privacy=null_us_privacy&coppa=0&ifa_type=NA&lmt=NA&device_language=es1
+#EXTINF:-1 tvg-id="Canela Cinema Terror" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a2da8f3be33f009b4571681996ec68e7.webp" group-title="Movies",Canela Cinema Terror
+https://amg00658-amg00658c39-canelatv-international-5221.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelahorror-canelatvinternational/playlist.m3u8?rights_holder_id=canela-horror&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=c736facd-e31f-41ce-b057-93b0983b02d2&url=https://canela.tv/player/channel/canela-horror&us_privacy=null_us_privacy&coppa=0&ifa_type=NA&lmt=NA&device_language=es
 #EXTINF:-1 tvg-id="Canela Cinema" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a2da8f3be33f009b4571681996ec68e7.webp" group-title="Movies",Canela Cinema
 https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg00658-canelamediainc-canelacinema-freetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine Kids" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eb23903cf0a778ea0a667ba01a9a8d05.webp" group-title="Movies",Cine Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
-#EXTINF:-1 tvg-id="ExtremaTV" tvg-name="ExtremaTV" tvg-logo="https://television-libre.online/img/dream.png" group-title="JOVENES Y ADULTOS",ExtremaTV
-https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w1084369828.m3u8
+https://stream.ads.ottera.tv/cl/241222ctk76ah1ir6ra7onea50/854x480_1355200_2_f.m3u8?i=475_3506
+#EXTINF:-1 tvg-id="Clic TV" tvg-name="Clic TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e34f4cd1d9f10eee2b41c6eb0045b796.webp" group-title="JOVENES Y ADULTOS",Clic TV
+https://stream.ads.ottera.tv/cl/241222ctk77md474qg3gevod3g/854x480_1355200_2_f.m3u8?i=475_5398x|
 #EXTINF:-1 tvg-id="VisionTV" tvg-name="VisionTV" tvg-logo="https://lc.cx/Lc_XUO" group-title="JOVENES Y ADULTOS",VisionTV
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="RetroPlusTV" tvg-name="RetroPlusTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="JOVENES Y ADULTOS",RetroPlusTV
 https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u
 #EXTINF:-1 tvg-id="Vclassic Tv" tvg-name="Vclassic Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7a80e50a4516a948ce4dd6ac10912ec2.webp" group-title="JOVENES Y ADULTOS",Vclassic Tv
-https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w646988500.m3u8
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1987707097.m3u8
 #EXTINF:-1 tvg-id="MoniTV" tvg-name="CineFriki" tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="Familiar",MoniTV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-id="Planeta TV Movie" tvg-name="Planeta TV Movie" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99912765d4b4234eab782b5beb81286d.webp" group-title="JOVENES Y ADULTOS",Planeta TV Movie
