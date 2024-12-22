@@ -123,12 +123,10 @@ https://live.sdfgnksbounce.com:8080/MTc5LjUxLjExOS41Mw==/110_.m3u8?token=Zu8IDEW
 https://usher.ttvnw.net/api/channel/hls/el_reymo08.m3u8?acmb=eyJCcm93c2VJdGVtVHJhY2tpbmdJZCI6IjMwYTkyMTFlZTU0MTdiNGYiLCJBcHBWZXJzaW9uIjoiNjZmOTQ2NjEtNWM1Yy00MjI2LWFjOGYtYTUyZWI2OGZmYjE2In0%3D&allow_source=true&browser_family=chrome&browser_version=131.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=2974186&platform=web&play_session_id=229a37ddf4db06c27f38e8923ac4f604&player_backend=mediaplayer&player_version=1.35.0-rc.2&playlist_include_framerate=true&reassignments_supported=true&sig=811ab9463c0fddc3de3da5bae740af51d7686833&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22el_reymo08%22%2C%22channel_id%22%3A1139098736%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a36df084441abd2a%22%2C%22expires%22%3A1734898448%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22179.51.119.55%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 #EXTINF:-1 tvg-id="Cartoon Network City" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/cartoon_network.png" group-title="Animation",Cartoon Network City
 https://envivo.cncity.live/hls/cncity.m3u8
-
-
-#EXTINF:-1 tvg-id="LatinoKids" tvg-logo="" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="LatinoKids" tvg-logo="" group-title="Kids",Latino Kids
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Variedtv" tvg-logo="" group-title="Anime",Variedtv
-https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+https://cloud5.streaminglivehd.com:3874/stream/play.m3u8
 #EXTINF:-1 tvg-id="Bigtv" tvg-logo="https://neotv.cl/assets/img/channels/big-tv.png" group-title="Anime",Bigtv
 https://xhateaec.com:8800/hls/bigtv/bigtv/2e7c0930c48d249969862b4c76ab97c8/index.m3u8
 #EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://i.imgur.com/WM4FXod.png" group-title="Entertainment",Kanade (720p)
@@ -1360,7 +1358,7 @@ https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Maulevision.cl" tvg-logo="https://i.imgur.com/KIeb7mk.png" group-title="Undefined",Maulevisión (720p)
 https://makestreaming.online:3723/stream/play.m3u8
 #EXTINF:-1 tvg-id="MAXIMA.cl" tvg-logo="https://i.imgur.com/PZG40Hg.png" group-title="Undefined",MAXIMA (720p) [Not 24/7]
-https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/maxtvstreaming/playlist.m3u8
 #EXTINF:-1 tvg-id="MDATelevision.ve" tvg-logo="https://i.imgur.com/AlY38PN.png" group-title="Entertainment",MDA Televisión
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Undefined",Mega (480p)
