@@ -117,6 +117,8 @@ https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w159087467.m3u8
 #EXTINF:-1 tvg-id="TerrorTV" tvg-name="TerrorTV" tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png" group-title="JOVENES Y ADULTOS",TerrorTV
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
+#EXTINF:-1 tvg-id="TV Max" tvg-logo="https://xhateaec.com/themes/redsocial/img/logo.png?cache=583" group-title="Kids",TV Max
+https://xhateaec.com:8800/hls/visitor/visitor/00039ecbed34b1b76b510e422678ccfe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/sw99Kbn/Logo-Desierto-florido-TV.jpg" group-title="JOVENES Y ADULTOS",Desierto florido TV HD
 https://stream.gia.tv/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/playlist.m3u8
 #EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV
@@ -205,12 +207,6 @@ https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="JOVENES Y ADULTOS",VariedTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vhx4hxI.png" group-title="JOVENES Y ADULTOS",Loading HD Brasil
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PelisyPopcorn.us" tvg-logo="https://i.imgur.com/jP19sGt.png" group-title="Undefined",Pelis y Popcorn
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
-
 https://bond-v.zappingtv.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzM0NjExOTAsImtleSI6IjcwNzFlYmYxNTVmZTE2NjI0N2M2ZjAzMTY0MTU4YWFlZWYyOWFkYzAyY2ZhZmU1YjE4YTMwYTYyM2QzZWY0MGIifQ.ZR_TuuJeFuec5B7QSDX1X0R9PKdwWzT_BQRQl8_bCIQ/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gb9K6i9.png" group-title="Familiares",Dreiko TV
 https://cloudvideo.servers10.com:8081/8096/index.m3u8
