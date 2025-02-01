@@ -3558,3 +3558,5 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 https://ip4.pokaz.me:1443/11/index.m3u8?wmsAuthSign=1688415878p522i65i42i091Sfd5cb2d3907aca9eacf837b1630ede5f&rand=0.9384894298033322
 #EXTINF:-1 tvg-id="radionica.rocks" tvg-logo="https://rtvc-assets-radionica3.s3.amazonaws.com/field/logo/streaming/radionica_Avatar_2_1.png" group-title="Music",Colombia Radionica (1080p)
 https://streaming.rtvc.gov.co/Radio_Radionica/Radionica.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Pelicula" tvg-logo="https://i.imgur.com/CzeVIZa.png" group-title="General",Pelicula
+https://film.verpelicula.org/film/1032950/film.m3u8
