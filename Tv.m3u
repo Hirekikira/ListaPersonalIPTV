@@ -131,22 +131,18 @@ http://181.78.105.146:6060/play/a01n
 http://138.118.105.190:8000/play/a0g1
 #EXTINF:-1 tvg-id="Cartoon Network City" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/cartoon_network.png" group-title="Animation",Cartoon Network City
 https://envivo.cncity.live/hls/cncity.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network City" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/cartoon_network.png" group-title="Animation",Cartoon Network City
-https://live.sdfgnksbounce.com:8080/MTc5LjUxLjEyNC4xNjc=/114_.m3u8?token=njdiZOczJUINbP6tn_4_Kg&expires=1739067747
-#EXTINF:-1 tvg-id="https://www.telegratishd.com/" tvg-logo="" group-title="Animation",Disney Channel
-https://live.sdfgnksbounce.com:8080/MTc5LjUxLjEyNC4xNjc=/353_.m3u8?token=LzZbKCNyEQEZcIhRpUKPoA&expires=1739067797
 #EXTINF:-1 tvg-id="LatinoKids" tvg-logo="" group-title="Kids",Latino Kids
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C7NPTsT/Logo-Invasiva-Media.jpg" group-title="JOVENES Y ADULTOS",Imvasiva Media HD
 https://tv.invasivamedia.com/hls/limtv.m3u8
-#EXTINF:-1 tvg-id="Variedtv" tvg-logo="" group-title="Anime",Variedtv
-https://cloud5.streaminglivehd.com:3874/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png" group-title="JOVENES Y ADULTOS",VariedTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" group-title="JOVENES Y ADULTOS",Unetev HD
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
+#EXTINF:-1 tvg-id="KidsMovieClub.us" tvg-logo="https://i.imgur.com/avFk0Tt.png" group-title="Kids;Movies",Kids Movie Club
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac
 #EXTINF:-1 tvg-id="Bigtv" tvg-logo="https://neotv.cl/assets/img/channels/big-tv.png" group-title="Anime",Bigtv
-https://xhateaec.com:8800/hls/bigtv/bigtv/2e7c0930c48d249969862b4c76ab97c8/index.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
 #EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://i.imgur.com/WM4FXod.png" group-title="Entertainment",Kanade (720p)
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Rex" tvg-logo="https://neotv.cl/assets/img/channels/canal-rex.png" group-title="Retro",Canal Rex
@@ -205,8 +201,6 @@ https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
 #EXTINF:-1 tvg-id="https://neotv.cl/canal?slug=canal-lms" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="Anime",Canal LMS
 https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
-#EXTINF:-1 tvg-id="KidsMovieClub.us" tvg-logo="https://i.imgur.com/avFk0Tt.png" group-title="Kids;Movies",Kids Movie Club
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="JOVENES Y ADULTOS",VariedTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 https://bond-v.zappingtv.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzM0NjExOTAsImtleSI6IjcwNzFlYmYxNTVmZTE2NjI0N2M2ZjAzMTY0MTU4YWFlZWYyOWFkYzAyY2ZhZmU1YjE4YTMwYTYyM2QzZWY0MGIifQ.ZR_TuuJeFuec5B7QSDX1X0R9PKdwWzT_BQRQl8_bCIQ/playlist.m3u8
