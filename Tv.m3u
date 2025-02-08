@@ -103,38 +103,38 @@ https://amg00658-amg00658c39-canelatv-international-5221.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-id="Canela Cinema" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a2da8f3be33f009b4571681996ec68e7.webp" group-title="Movies",Canela Cinema
 https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg00658-canelamediainc-canelacinema-freetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine Kids" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eb23903cf0a778ea0a667ba01a9a8d05.webp" group-title="Movies",Cine Kids
-https://stream.ads.ottera.tv/cl/241222ctk76ah1ir6ra7onea50/854x480_1355200_2_f.m3u8?i=475_3506
+https://stream.ads.ottera.tv/cl/250208cujt31atrm16e0qqk10g/854x480_1355200_2_f.m3u8?i=475_3506
 #EXTINF:-1 tvg-id="Clic TV" tvg-name="Clic TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e34f4cd1d9f10eee2b41c6eb0045b796.webp" group-title="JOVENES Y ADULTOS",Clic TV
-https://stream.ads.ottera.tv/cl/241222ctk77md474qg3gevod3g/854x480_1355200_2_f.m3u8?i=475_5398x|
+https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/cb543d19726c608f84cb3d62cef047a3f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7550db80148b61299bce8c37683f03409a5e5afba358b1ebb45f178e39f2e71855c02943e19f43c8814aa6d185589c5e8027a2149991f78cda42d682f30993748a8a94d84307fba356d1a17eb9d695643b95705a3e7437d582e330caa1e43d2e6ff7eadfb725de1ecb9b2c82614ddb4af81dc158220adb24340f7db4a9c9ff3bf2e527b026841500afceabf63021b465faedcbd274738df72eb526a362f52d31319cf1ca5bd18d45d6fe148cba6d122fd3d16bafdde3d3a1e0d60aab2cc491a0c37d5a18374d42a74db29668ec2cdf53a1da5c740f1a0afecc158cadf16a1d4e03c68c57df165b9ede8888d0477be9680955e565960a563e8264222cab7db9a93d6a883403ca606eac1666d63089d246c2aed5e1092ca69e96128d08c1814a83a64cf9177f336494fd2358494907a0cd6e1f3f74c605a993fde8790d0ffbe48f99e4562b0c2d184206e9b3b668fa6ea1a6dee91c35bf25a3e89a451a852adbb84b430d4149/11/854x480_1355200/index.m3u8
 #EXTINF:-1 tvg-id="VisionTV" tvg-name="VisionTV" tvg-logo="https://lc.cx/Lc_XUO" group-title="JOVENES Y ADULTOS",VisionTV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="RetroPlusTV" tvg-name="RetroPlusTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="JOVENES Y ADULTOS",RetroPlusTV
-https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u
+https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Vclassic Tv" tvg-name="Vclassic Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7a80e50a4516a948ce4dd6ac10912ec2.webp" group-title="JOVENES Y ADULTOS",Vclassic Tv
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1987707097.m3u8
 #EXTINF:-1 tvg-id="MoniTV" tvg-name="CineFriki" tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="Familiar",MoniTV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-id="Planeta TV Movie" tvg-name="Planeta TV Movie" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99912765d4b4234eab782b5beb81286d.webp" group-title="JOVENES Y ADULTOS",Planeta TV Movie
-https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w159087467.m3u8
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TerrorTV" tvg-name="TerrorTV" tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png" group-title="JOVENES Y ADULTOS",TerrorTV
-https://tv.streaming-chile.com:19360/8140/8140.m3u8
+https://live.sdfgnksbounce.com:8080/MTc5LjUxLjEyNC4xNjc=/196_.m3u8?token=1y-1IJWcDXgYxsV_jm1BCw&expires=1739066358
 
-#EXTINF:-1 tvg-id="TV Max" tvg-logo="https://xhateaec.com/themes/redsocial/img/logo.png?cache=583" group-title="Kids",TV Max
-https://xhateaec.com:8800/hls/visitor/visitor/00039ecbed34b1b76b510e422678ccfe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/sw99Kbn/Logo-Desierto-florido-TV.jpg" group-title="JOVENES Y ADULTOS",Desierto florido TV HD
-https://stream.gia.tv/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/playlist.m3u8
+#EXTINF:-1 tvg-id="Net TV" tvg-logo="https://neotv.cl/assets/img/channels/net-tv.png" group-title="Kids",Net TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8?nimblesessionid=343459777
 #EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV
 http://170.233.192.234:8112/play/007
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-5DEA5FA222-seeklogo.com.png" group-title="Kids",Nickelodeon
-https://live.sdfgnksbounce.com:8080/MTc5LjUxLjExOS41Mw==/110_.m3u8?token=Zu8IDEW67f3P3mYBLtYQEQ&expires=1734575708
+https://live.sdfgnksbounce.com:8080/MTc5LjUxLjEyNC4xNjc=/110_.m3u8?token=GFqPzM_c_i1Xfiz13yvhpA&expires=1739067511
 #EXTINF:-1 tvg-name="Adult Swim LA" tvg-id="AdultSwimLA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://181.78.105.146:6060/play/a01n
 #EXTINF:-1 tvg-name="Adult Swim Mexico" tvg-id="adultswimmx" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim Mexico
 http://138.118.105.190:8000/play/a0g1
 #EXTINF:-1 tvg-id="Cartoon Network City" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/cartoon_network.png" group-title="Animation",Cartoon Network City
 https://envivo.cncity.live/hls/cncity.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",SYFY LA HD
-https://streaming-cl.sh1ny.space/memfs/4f2393d1-64eb-4e8f-a2f4-f60feea9e63d.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network City" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/cartoon_network.png" group-title="Animation",Cartoon Network City
+https://live.sdfgnksbounce.com:8080/MTc5LjUxLjEyNC4xNjc=/114_.m3u8?token=njdiZOczJUINbP6tn_4_Kg&expires=1739067747
+#EXTINF:-1 tvg-id="https://www.telegratishd.com/" tvg-logo="" group-title="Animation",Disney Channel
+https://live.sdfgnksbounce.com:8080/MTc5LjUxLjEyNC4xNjc=/353_.m3u8?token=LzZbKCNyEQEZcIhRpUKPoA&expires=1739067797
 #EXTINF:-1 tvg-id="LatinoKids" tvg-logo="" group-title="Kids",Latino Kids
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C7NPTsT/Logo-Invasiva-Media.jpg" group-title="JOVENES Y ADULTOS",Imvasiva Media HD
