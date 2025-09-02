@@ -184,7 +184,7 @@ https://cloudvideo.servers10.com:8081/8096/index.m3u8
 #EXTINF:-1 tvg-id="Moni TV" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/moni_tv.png" group-title="Animation",Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-id="locomotiontv.com" tvg-logo="https://i.ibb.co/Hnzb22J/locomotion.png" group-title="Anime",AnimeZLocomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="https://www.animeonegai.com/es/watch/1Wz7n8vXjXrQzIG2o" tvg-logo="https://neotv.cl/assets/img/channels/gogoplay-tv.png" group-title="Anime",GOGOPlay
 https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
 #EXTINF:-1 tvg-id="GOGOPlay" tvg-logo="https://neotv.cl/assets/img/channels/gogoplay-tv.png" group-title="Anime",GOGOPlay
